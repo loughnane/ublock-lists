@@ -1,0 +1,3280 @@
+*$font,third-party
+! 2022-08-26 https://itsfoss.com
+itsfoss.com##.alignwide.entry-related-inner-content
+itsfoss.com##.site-footer-row-container-inner
+itsfoss.com##.nav-previous
+itsfoss.com##.nav-links
+itsfoss.com##.comments-compat-kadence
+itsfoss.com##.sidebar-link-style-normal
+itsfoss.com##.entry-taxonomies
+itsfoss.com##.site-header-wrap
+itsfoss.com##.meta-comments
+itsfoss.com##.title-mobile-align-inherit.title-tablet-align-inherit.title-align-inherit.post-title.entry-header > .entry-meta-divider-dot.entry-meta > .kt-reading-time-wrap
+
+! 2022-08-26 https://ubuntu.com
+ubuntu.com##.p-modal
+ubuntu.com##.js-product-card.p-card
+ubuntu.com##.blog-p-card--muted
+ubuntu.com##.p-footer
+
+! 2022-08-26 https://www.omgubuntu.co.uk
+www.omgubuntu.co.uk###secondary
+www.omgubuntu.co.uk##.header
+www.omgubuntu.co.uk##.post-summary
+
+1337x.to##.pull-right.col-3
+192.168.7.2##.centered.itemsContainer.vertical-wrap
+9to5mac.com##.author-bio-container
+9to5mac.com##.feat-image-wrapper
+9to5mac.com##.news-feed-header
+9to5mac.com##.powered-by-wpcom
+9to5mac.com##.site-header
+9to5mac.com##.site-header-placeholder
+abc13.com##.nav
+abc13.com##.side-right.side-wide
+abc13.com##.story-taxonomy
+account.synology.com###cookies_header
+americanaffairsjournal.org##.content-hero-area-wrapper
+americanaffairsjournal.org##.expanded.row.content-hero-area
+americanaffairsjournal.org##.is-at-top
+americanaffairsjournal.org##.is-stuck.is-at-top.sticky.paywall-notification-bar
+americanaffairsjournal.org##.large-3.medium-4.column.site-subnav > .menu.social-links
+americanaffairsjournal.org##.site-header
+americanaffairsjournal.org##.sticky-container.paywall-notification-bar-wrapper
+apnews.com##.Component-block-0-2-45.relatedStory-0-2-52
+apnews.com##.ContentView-LeftRail
+archive.is###ad_and_popular
+archive.is###bigTopBox > span
+archive.is###bottom-sticky-track
+archive.is###comments_sector
+archive.is###full-header
+archive.is###share-target
+archive.is###share_tools
+archive.is###top-wrapper
+archive.is##footer
+arstechnica.com###action_button_container
+arstechnica.com###article-footer-wrap
+arstechnica.com###header-nav-primary > ul
+arstechnica.com###latest-stories
+arstechnica.com###promoted-comments
+arstechnica.com###social-footer
+arstechnica.com###social-left
+arstechnica.com##.ars-video-playlist
+arstechnica.com##.full.right.shortcode-img.image
+arstechnica.com##.header-right
+arstechnica.com##.intro-left.intro-image
+arstechnica.com##.post-upperdek
+arstechnica.com##.right.related-stories
+arstechnica.com##.scrolled-up.site-header
+arstechnica.com##.site-footer
+arstechnica.com##.site-header
+arstechnica.com##.xrail
+arstechnica.com##div.column-wrapper:nth-of-type(1) > .xrail
+arstechnica.com##div.column-wrapper:nth-of-type(2)
+arstechnica.com##div.right.story-sidebar.sidebar.pullbox
+arstechnica.com##div.right.story-sidebar.sidebar.pullbox:nth-of-type(1)
+asia.nikkei.com###GD04_01
+asia.nikkei.com###newsletter-signup
+asia.nikkei.com##.no-print
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+askubuntu.com##.js-dismissable-hero.ps-relative.sm\:pb24.sm\:pt24.fc-black-200.bg-black-750.py24
+askubuntu.com##.js-footer.site-footer
+avherald.com###avhcookieconsent
+babylonbee.com##.col-md-4
+beebom.com##.td-main-sidebar.td-pb-span4
+bitcoinmagazine.com##._3LIL94JwLyF2lzFsunueVN
+blob:https://cleantechnica.com/06bfd395-8d10-4200-a1fd-e9f3c9010541$domain=cleantechnica.com,image
+blob:https://www.misumi-techcentral.com/5c6f4eed-027d-441b-a510-81a3e45bfaa2$domain=www.misumi-techcentral.com,image
+blog.bestbuy.ca##.td-category
+blog.bestbuy.ca##.td-container-wrap.td-footer-container.td-footer-wrapper
+blog.bestbuy.ca##.td-container-wrap.td-sub-footer-container
+blog.bestbuy.ca##.td-crumb-container
+blog.bestbuy.ca##.td-main-sidebar
+blog.bestbuy.ca##.td-related-row
+blog.bestbuy.ca##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_14_62dfd2f1ca5ad_rand.td_block_related_posts.td_block_wrap
+blog.bestbuy.ca##.tdc-header-wrap
+blog.bestbuy.ca##footer
+blog.fennel.ai###nojs-banner
+blog.ktz.me###disqus_recommendations
+blog.ktz.me###disqus_thread
+blog.ktz.me##.outer.read-next
+blog.ktz.me##.outer.site-footer
+blog.the-ebook-reader.com###footer-widgets
+blog.the-ebook-reader.com###share
+blog.the-ebook-reader.com###sidebar
+blog.the-ebook-reader.com##.heateor_sss_horizontal_sharing.heateor_sss_sharing_container
+blogs.sciencemag.org###comments
+blogs.sciencemag.org###ghNavSearch
+blogs.sciencemag.org##.gh-header-right
+blogs.sciencemag.org##.row--footer.row
+blogs.sciencemag.org##.row--footnav.row
+blogs.sciencemag.org##.secondary
+boingboing.net###next-post-thumbnails
+boston.cbslocal.com###breaking-news
+boston.cbslocal.com###floating-player-container
+boston.cbslocal.com###ott-promotion-block
+boston.cbslocal.com###ott-promotion-block > .wrapper
+boston.cbslocal.com##.bottom
+boston.cbslocal.com##.middle > .wrapper
+boston.cbslocal.com##.right-bar.sidebar
+boston.cbslocal.com##.social-align-wrapper
+boston.cbslocal.com##section.sidebar-section
+boston.curbed.com###newsletter-signup-short-form
+boston.curbed.com###privacy-consent
+boston.curbed.com##.c-compact-river
+boston.curbed.com##.c-nextclick
+boston.curbed.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
+brookline.wickedlocal.com###article-storyStrip
+brookline.wickedlocal.com###header-main
+brookline.wickedlocal.com##.article-v2-left
+cleantechnica.com###dpsp-content-top
+cleantechnica.com###menu-bottom-menu
+cleantechnica.com###omc-main-navigation
+cleantechnica.com###omc-sidebar
+cleantechnica.com##.omc-related-posts
+cleantechnica.com##p:nth-of-type(20) > [href="https://shop.spreadshirt.com/CleanTechnica"]
+cointelegraph.com##.post-page__pending
+cointelegraph.com##.related-list__list
+collider.com##.mvp_tabber_widget.widget
+comicbook.com###section2
+comicbook.com###section3
+comicbook.com###section4
+comicbook.com###section5
+comicbook.com##.sidebar-sticky
+daviesmediadesign.com###issuem-leaky-paywall-articles-remaining-nag
+daviesmediadesign.com##.et_bloom_bottom_inline.et_bloom_1_field.et_bloom_form_content
+daviesmediadesign.com##.et_bloom_header_text_light.split.et_bloom_form_header
+digboston.com###genesis-footer-widgets
+digboston.com###genesis-sidebar-primary
+digboston.com##.entry-footer
+digboston.com##.entry-header > .entry-meta > .entry-categories
+digboston.com##.molongui-author-box-related
+digboston.com##.nav-secondary
+directory.designnews.com###\#ubm-cookies-popup
+directory.designnews.com###DnHeaderBannerDiv
+directory.designnews.com###DnPageHeader
+directory.designnews.com###iribbon-container
+directory.designnews.com##div.informa_foot.informa_corp.informa_corp_container.subfooter:nth-of-type(2)
+duckduckgo.com##.footer
+duckduckgo.com##.js-feedback-start.feedback-btn__send
+duckduckgo.com##.js-serp-bottom-right.serp__bottom-right
+duckduckgo.com##a.result__a[href*=".pinterest."]:upward(3)
+duckduckgo.com##a.result__a[href*="snapcraft.io/install"]:upward(3)
+edition.cnn.com##div.el__embedded--standard.el__embedded:nth-of-type(even) > .el__article--embed.el__storyelement--standard
+edition.cnn.com##div.el__embedded--standard.el__embedded:nth-of-type(odd) > .el__article--embed.el__storyelement--standard
+editorial.rottentomatoes.com###social-tools-widget
+editorial.rottentomatoes.com##.article-more
+editorial.rottentomatoes.com##.col-right
+editorial.rottentomatoes.com##.trendingBar
+en.people.cn###shengmingTip
+en.people.cn##.tipsMask
+en.wikipedia.org###frb-inline
+en.wikipedia.org###frb-nag
+en.wikipedia.org###mw-panel
+en.wikipedia.org###p-coll-print_export
+en.wikipedia.org###p-interaction
+en.wikipedia.org###p-navigation
+en.wikipedia.org###p-tb
+en.wikipedia.org###p-tb > .body > ul
+english.stackexchange.com###noscript-warning
+eudict.com###cloud
+eudict.com###modal-center
+eudict.com##.uk-card-hover.uk-card-default.uk-card
+evernote.com##.is-photo.image-on-left.modal-banner
+evernote.com##.modal-mask
+fangwallet.com##.cf.post-header
+fangwallet.com##.sidebar.col-4
+finance.yahoo.com###Aside
+finance.yahoo.com###mrt-node-YDC-Stream
+fortune.com##.eyebrow-latest-posts.latestPosts__recircWrapper--2VcS_
+fortune.com##.sidebar__wrapper--EA35Y
+fs.blog##.sidebar
+geekermag.com###dpsp-floating-sidebar
+geekermag.com###sticky-sb1
+genius.com##.u-vertical_margins.share_buttons
+genius.com##div > li.nav_menu-item
+genius.com##header-menu-item:nth-of-type(6) > .nav_menu-item
+genius.com##recirculated-content
+genius.com##span.nav_menu-item--separator.nav_menu-item
+getlighthouse.com###sidebar
+gfycat.com##.first-row
+gfycat.com##.navigation__bottom-row
+gfycat.com##.pro-cta
+gfycat.com##.upnext-items
+gfycat.com##.visible.control__right.control
+gizmodo.com###sidebar_wrapper
+gizmodo.com##.fWQdAR.ynugv2-2
+gizmodo.com##.js_topbar
+gizmodo.com##.overhang-wrapper
+google.*##.g:has(a[href*=".pinterest."])
+google.*##.g:has(a[href*="snapcraft.io/install"])
+google.*##a[href*=".pinterest."]:upward(1)
+google.*##a[href*="snapcraft.io/install"]:upward(1)
+hbr.org##.global-nav-container.hide-for-print.top-header
+hbr.org##.hide-medium-down.hide-for-print.flex-col.global-nav
+hbr.org##.post-container
+hbr.org##.slug-container
+hbr.org##div.component:nth-of-type(8)
+hbr.org##hero-image
+healthpayerintelligence.com###article-newsletter-signup
+healthpayerintelligence.com###cookie-consent
+healthpayerintelligence.com###features-sidebar
+healthpayerintelligence.com###related-content
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_2.et_bloom_resize.et_bloom_optin.et_bloom_popup
+hosting.review##.mb-5.sticky
+hosting.review##.w-100.container
+imgur.com###captions
+imgur.com###right-content
+imgur.com###topbar
+imgur.com##.Gallery-EngagementBar
+imgur.com##.Gallery-Sidebar-Wrapper
+imgur.com##.navNext.btn-action.btn
+imgur.com##.row > div > .first-item.Navigation-Container > .Navigation-next.Navigation
+indesignskills.com##.banner-container-content-ad
+indesignskills.com##.code-block-1.code-block > .banner-container-content-ad
+insights.som.yale.edu##.node__department
+insights.som.yale.edu##.node__footer
+insights.som.yale.edu##.node__topics
+insights.som.yale.edu##.paragraph__sign-up-widget
+insights.som.yale.edu##.site-footer
+ios.gadgethacks.com##.left-col
+ios.gadgethacks.com##.related-scroller
+itsfoss.com###APESTER_1
+itsfoss.com###genesis-sidebar-primary
+itsfoss.com##.apester-element.apester-media
+itsfoss.com##.apester-fill-content
+itstillruns.com##.View.Topic.initial-page.article-page-container > .article-body-container > .main-column > .articles-slide-show
+jalopnik.com###sidebar_wrapper
+jalopnik.com##.overhang-wrapper.gZUgbU.sc-101yw2y-7
+jalopnik.com##[class*="js_topbar"]
+krebsonsecurity.com###main > .widget-area
+krebsonsecurity.com###page > .widget-area
+krebsonsecurity.com##.adt-comment
+krebsonsecurity.com##.comments-area
+krebsonsecurity.com##.nav-menu
+krebsonsecurity.com##.site-wordpress
+krebsonsecurity.com##ul:nth-of-type(2)
+kunzonpublishing.com###branding
+kunzonpublishing.com###nav-above
+kunzonpublishing.com##.widget-area
+laist.com###column-bestof
+laist.com###entry-social-float
+laist.com###skyscraper
+laist.com##.box-inner
+laist.com##.top-popular
+learning.edx.org##div.alert-info
+linuxhint.com###sidebar
+linuxize.com###sidebar
+manos.malihu.gr##aside
+manos.malihu.gr##header.clearfix
+medcitynews.com###related-articles-strip
+medcitynews.com###sidebar
+medcitynews.com###signup-main
+medcitynews.com##.atl.owl-carousel.banner > .owl-wrapper-outer > .owl-wrapper
+medium.com##.hd.kp.s > .p.n > .w.ap.ao.an.am.al.ak.aj
+medium.com##.oj
+medium.com##.on.v.u.om.t.s.ol.ok.oj.oi.oh.og.p.o.n
+medium.com##.ot.os.or.oq.op.oo
+medium.com##.qc
+medium.com##.sp.so.s.sn
+medium.com##div.r.od:nth-of-type(3) > .bh.bg
+member.bluecrossma.com##.cdk-overlay-container
+mhealthintelligence.com###cookieConsentForm
+mhealthintelligence.com###CoverPop-cover
+mhealthintelligence.com###features-sidebar
+mhealthintelligence.com###footer
+mhealthintelligence.com###tags > ul
+mhealthintelligence.com##.splash-center.CoverPop-content
+mhealthintelligence.com##.top-layer.blue-bottom.container-fluid
+mhealthintelligence.com##body > header
+mhealthintelligence.com##footer
+neo4j.com##.footer
+neo4j.com##.mr-1.floating-share
+news.bloomberglaw.com##.TheArticleClothesline_wrapper_3FS2z
+news.softpedia.com###clrfx
+news.softpedia.com###main-search
+news.softpedia.com###navicos
+news.softpedia.com###spsbtns
+news.softpedia.com###unveil_me
+news.softpedia.com##.footer
+news.softpedia.com##.fr.prefix_1.grid_10
+news.softpedia.com##.hdsocial_mini
+news.softpedia.com##.locmenu.navsect.lev1
+news.softpedia.com##.posrel.breadcrumb.grid_27
+news.softpedia.com##.posrel.statusbar
+news.softpedia.com##[href="#disqus_thread"]
+news.softpedia.com##[href^="https://twitter.com/intent/follow"]
+news.softpedia.com##b
+news.softpedia.com##div.mgtop_20.grid_48
+news.yahoo.com###Col1-1-CanvassComments-Proxy > .canvas-canvass-comments > div
+news.yahoo.com###YDC-Stream-Proxy
+news.yahoo.com###YDC-UH
+news.yahoo.com##.Bdrs\(4px\).Bxsh\(unifiedModalShadow\).Pos\(r\) > .T\(-20px\).End\(20px\).Pos\(a\)
+news.yahoo.com##.caas-list-bullet.caas-list
+news.yahoo.com##.sticky-outer-wrapper
+news.yale.edu##.clearfix.story-bottom
+news.yale.edu##.clearfix.zone-footer-wrapper.zone-wrapper
+news.yale.edu##.row-shaded.clearfix.zone-row-b-wrapper.zone-wrapper
+news.yale.edu##.section-header.section
+nickjanetakis.com##.hidden-xs.hidden-sm.social-share-floating-bar
+nplusonemag.com###issue-meta
+nplusonemag.com##.flavor-issue
+nplusonemag.com##.headnote
+nplusonemag.com##.issue-content-post-hero
+nplusonemag.com##.issue-content-post-meta.post-meta
+nplusonemag.com##.prev-next
+obliviousinvestor.com###sidebar
+ofdollarsanddata.com###metaslider_widget-2
+ofdollarsanddata.com##.article-related
+ofdollarsanddata.com##.article-social
+old.reddit.com###sr-header-area
+old.reddit.com##.footer-parent
+old.reddit.com##.listingsignupbar.infobar
+old.reddit.com##.premium-banner
+oneweb.net##.c-case-study__footer
+oneweb.net##.c-case-study__meta-list
+oneweb.net##.c-footer.region-footer
+oneweb.net##.c-hero__breadcrumb
+opensource.org##.clearfix.sidebar
+otechworld.com##.c-4-12.sidebar
+pacman.cc###footer
+pacman.cc##.flex-4.flex > div.col.video
+pacman.cc##.flex-4.flex > div.video > .align-center
+pacman.cc##.style1.wrapper > .inner > .align-center > p
+pacman.cc##body > .wrapper
+patch.com###in-article-boxed-recirc
+patch.com##.ba-slot-nid-28420900.recirc-test-wrapper.li-widget-item.col-xs-12.mini-slot
+patch.com##.ba-slot-nid-28421564.recirc-test-wrapper.li-widget-item.col-xs-12.mini-slot
+patch.com##.ba-slot-nid-28422090.recirc-test-wrapper.li-widget-item.col-xs-12.mini-slot
+patch.com##.bold.up-next-header
+patch.com##.col-md-4
+patientengagementhit.com###article-newsletter-signup
+patientengagementhit.com###cookie-consent
+patientengagementhit.com###CoverPop-cover
+patientengagementhit.com###features-sidebar
+patientengagementhit.com##.splash-center.CoverPop-content
+petapixel.com##.page__sidebar
+pimylifeup.com###sidebar
+productz.com##.is-active.c-flex-center.c-layer--fixed.c-layer.c-rodo-bar
+publicdomainreview.org##.affinities-banner.sitewide-banner
+reason.com###most-read-container
+reason.com##.anyclip-block
+reason.com##.cc-color-override--1775422000.cc-top.cc-static.cc-theme-block
+reason.com##.magicSidebar.sidebar
+reason.com##.tag-department-of-justice.tag-warrants.tag-senate.tag-privacy.tag-encryption.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-8037895.rcom-standard-article > footer
+reg.ebay.com##.m_t70.ftrCntr > .gh-flex.gh-w
+screenrant.com###secondary
+shareuniversity.org###alert1
+shareuniversity.org###alert_system_notice
+slate.com##.article__content > .social-share
+slate.com##.article__rubric
+slate.com##.article__tags
+slate.com##.bottom-ad
+slate.com##.global-footer
+slate.com##.in-article-recirc
+slate.com##.slate-kicker-promo
+slate.com##div.masthead__wrapper
+slickdeals.net###categoryBar > .inner
+slickdeals.net###detailsArea > .addCommentContainer
+slickdeals.net###headings
+slickdeals.net###joinTheConversationBox > .boxContent
+slickdeals.net###topInfo
+slickdeals.net##.blackFriday.countdownBanner
+slickdeals.net##.carouselWrapper
+slickdeals.net##.categoryBarPlaceholder
+slickdeals.net##.dealalerts_subscribe.alert.button
+slickdeals.net##.extension.announcementBar
+slickdeals.net##.extensionStorePromo
+slickdeals.net##.footerContainer.blueprint
+slickdeals.net##.giveRepPoints > .giveRepButton
+slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
+slickdeals.net##.recommendedDealAlertsSection.box
+slickdeals.net##.stickyHeader
+slickdeals.net##.stickyHeader.categoryBar
+slickdeals.net##.stickyHeader.headerContainer
+slickdeals.net##.stickyRightRailWrapper
+slickdeals.net##.storeLinkWidget.blueprint
+slickdeals.net##.voteShareContainer
+slickdeals.net##div.linkWidgetCarousel
+sourceforge.net###mirror
+sourceforge.net###project-nel
+sourceforge.net###share-project-button
+sourceforge.net##.content-supplement.columns.small-12
+sourceforge.net##.l-side-column
+sourceforge.net##.row.m-kmu
+sourceforge.net##.search > .social-icons
+sourceforge.net##aside.m-wide-projects-widget.m-wide-widget:nth-of-type(1)
+sourceforge.net##aside.m-wide-projects-widget.m-wide-widget:nth-of-type(2)
+spectator.us###mc_embed_signup
+spectator.us###scroll-to
+spectator.us##.article-header__category
+spectator.us##.masthead
+spectator.us##.primary-nav
+spectator.us##.sidebar
+spectator.us##.site-footer
+spectator.us##.spev-show-not-active-subscriber.article-promo--end.article-promo
+spectator.us##.tags
+spectrum.ieee.org###comments-section
+spectrum.ieee.org###global-footer
+spectrum.ieee.org###header
+spectrum.ieee.org###recommended
+spectrum.ieee.org###side-module
+spectrum.ieee.org##.blog-header-wrap
+spectrum.ieee.org##.cc-banner
+spectrum.ieee.org##.energywise.sml_article_static
+spectrum.ieee.org##.hide-mobile
+spectrum.ieee.org##.jobs-wrapper
+spectrum.ieee.org##.tech-talk.sml_article_static
+stackoverflow.com###hot-network-questions
+stackoverflow.com###noscript-warning
+stackoverflow.com##.js-consent-banner
+stackoverflow.com##.js-footer.site-footer
+stackoverflow.com##.mb16.s-anchors__grayscale.s-anchors.s-sidebarwidget__yellow.s-sidebarwidget
+stackoverflow.com##.ps-relative.js-freemium-cta
+statmodeling.stat.columbia.edu###nav-single
+statmodeling.stat.columbia.edu##.widget-area
+szewong.medium.com##.er.eq.xj
+taxfoundation.org###sidebar > .link-list-box
+techcrunch.com##.announcement-banner-wrapper
+techcrunch.com##.article-footer
+techcrunch.com##.article__action-links
+techcrunch.com##.article__related-links
+techcrunch.com##.breakout.embed
+techcrunch.com##.close-button
+techcrunch.com##.desktop-nav
+techcrunch.com##.feature-island
+techcrunch.com##.homepage__event-promo
+techcrunch.com##.load-more
+techcrunch.com##.newsletter-signup-block
+techcrunch.com##.site-footer
+techcrunch.com##.spot-im-conversation-module.spcv_conversation-module.spcv_light.spcv_conversation-view
+techcrunch.com##.upcoming-events
+techcrunch.com##article.post-block--unread
+techcrunch.com##div.post-block
+techwiztime.com###sidebar
+theamericanscholar.org##.sidebar
+theamericanscholar.org##.site-header
+theamericanscholar.org##.site-header > .container
+thedigitalprojectmanager.com###cookie-law-info-bar
+thedigitalprojectmanager.com###header-secondary-outer
+thedigitalprojectmanager.com###header-space
+thedigitalprojectmanager.com###sidebar
+thedigitalprojectmanager.com###top
+thedigitalprojectmanager.com##._align_center._ning_jss_zone.ang_zone_24857._ning_outer.angwp_24857
+thedigitalprojectmanager.com##._ning_visible._align_center._ning_hidden.strack_bnr._ning_cont.angwp_39120 > ._ning_inner > ._ning_link.strack_cli
+thedigitalprojectmanager.com##.blog-title.section-title.span_12.col > .meta-category
+thefilmstage.com###cb-alp-loader
+thefilmstage.com###cb-featured-image > .cb-mask
+thefilmstage.com###cb-logo-box
+thefilmstage.com###cb-nav-bar
+thefilmstage.com###cb-top-menu
+thefilmstage.com###cb-widgets
+thefilmstage.com##.cb-article-footer
+thefilmstage.com##.clearfix.cb-font-header.cb-footer-lower
+thefilmstage.com##.clearfix.cb-sidebar
+thehill.com###header > div
+thehill.com##.left-sidebar
+thehill.com##.left-sidebar-2
+thehill.com##.page-bottom
+thehill.com##.region-highlighted.region
+thehill.com##.sidebar.column.region-sidebar-second.region
+themarriagebed.com###text-14
+thenextweb.com###nav
+thenextweb.com##.c-post-image
+thenextweb.com##.c-tags--centered.c-tags
+thenextweb.com##.footer.app-footer
+thenextweb.com##.js-tnwSticky.c-post-split-meta
+thenextweb.com##.js-tnwSticky.c-split-sidebar
+thenextweb.com##.p-channel-banner
+thepointmag.com###social-share-icons
+thepointmag.com##.padding-bottom.container
+thepointmag.com##.share-container.subscribe-container
+theprint.in##.td-footer-template-wrap
+theprint.in##.td-header-desktop-wrap > .tdc-zone
+theprint.in##.tdb-breadcrumbs
+theprint.in##.tdb-tags
+theprint.in##.tdb_single_categories
+theprint.in##.tdi_94.vc_widget_sidebar.td_block_wrap.wpb_wrapper
+thequintessentialmind.com###secondary
+thequintessentialmind.com##.clearfix.apss-buttons-left.apss-theme-9.apss-social-share
+thequintessentialmind.com##.entry-meta
+torontolife.com##.sjmcm_archive-list-show-10_more-sidewalk-essays.js-sjmcm-module.feed-page.feed
+torontolife.com##.sjmcm_horizontal-list-show-6_big-stories.js-sjmcm-module.horizontal-editorial-footer
+torontolife.com##.social-media-buttons
+torontolife.com##.subscribe-navigation__list
+torrentfreak.com##.bread_cr
+torrentfreak.com##.col-8_sm-12
+torrentfreak.com##.footer
+torrentfreak.com##.header__container
+torrentfreak.com##.navigation--s.navigation
+torrentfreak.com##.page__sidebar
+torrentfreak.com##.socials
+torrentfreak.com##aside
+torrentinvites.org###above_postlist
+torrentinvites.org###bop5msotng
+torrentinvites.org###breadcrumb
+torrentinvites.org###contentMain > h1
+torrentinvites.org###header
+torrentinvites.org###navbar_notice_1
+torrentinvites.org###notices
+torrentinvites.org###socialBar
+torrentinvites.org###topBar
+torrentinvites.org##.above_body
+torrentinvites.org##.guestwarn
+torrentinvites.org##.tcatShowthread.tcat
+towardsdatascience.com##.c.s > .p.n
+towardsdatascience.com##.cw.cv.s.cu.ct.cs
+towardsdatascience.com##.z
+twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-1kqtdi0.r-kemksi.css-1dbjc4n
+twitter.com##.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
+twitter.com##.r-qo02w8.r-l5o3uw.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-9cbz99.r-1u4rsef.css-1dbjc4n:nth-of-type(3) > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
+ubuntuhandbook.org###comments
+ubuntuhandbook.org###sidebar
+ubuntuhandbook.org###single-post-nav
+ubuntuhandbook.org##.breadcrumb
+ubuntuhandbook.org##.clearfix.post-meta
+ubuntuhandbook.org##.comment-respond
+ubuntuhandbook.org##.imageless
+ubuntuhandbook.org##.the-comment-link
+unix.stackexchange.com###noscript-warning
+unix.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+unix.stackexchange.com##.js-footer.site-footer
+unix.stackexchange.com##.s-sidebarwidget__yellow
+upgradedpoints.com###secondary
+upgradedpoints.com##.advertiser-disclosure-wrap--no-margin.advertiser-disclosure-wrap
+venturebeat.com###ac-lre-player-ph
+venturebeat.com###article-category-ai
+venturebeat.com###main-nav-link-list
+venturebeat.com###newpost-1 > .clearfix.container.body-container
+venturebeat.com###newpost-2
+venturebeat.com###newpost-3
+venturebeat.com###newpost-4
+venturebeat.com###sticky-wrapper
+venturebeat.com##.GlobalNav__social-widget.GlobalNav__widget
+venturebeat.com##.MainBlock__sidebar
+venturebeat.com##.new-infinite-post
+venturebeat.com##.social-buttons
+venturebeat.com##.stackcommerce__container--article.stackcommerce__container
+web.archive.org###full-header
+web.archive.org###share-target
+web.archive.org###share_tools
+web.archive.org###top-wrapper
+web.archive.org###trending_now
+web.hypothes.is##.fusion-widget-area.fusion-footer-widget-area
+web.hypothes.is##.h-practices
+whdh.com###footer
+whdh.com###newsletter-signup
+whdh.com##.-on-air.live-news
+whdh.com##.-single-right.sidebar
+whdh.com##.article-sidebar
+whdh.com##.header-weather
+whdh.com##.sharing
+whdh.com##.site-footer
+whdh.com##.vjs-dock-shelf
+whdh.com##.wp-block-newsletter
+www.amazon.com###authorFollow_feature_div
+www.amazon.com###desktop-banner
+www.amazon.com###gw-card-layout
+www.amazon.com###gw-layout
+www.amazon.com###huc-rest-upsell-row-3
+www.amazon.com###nav-subnav
+www.amazon.com###nav-xshop
+www.amazon.com###navFooter
+www.amazon.com###percolate-ui-ilm_div
+www.amazon.com###rhf
+www.amazon.com###tellAFriendBylineBox_feature_div
+www.amazon.com###universal-detail-ilm
+www.amazon.com##.a-carousel
+www.amazon.com##.amazonlive-widget-padding
+www.amazon.com##.ameyal-product-shoveler
+www.amazon.com##[class*="deal-of-the-day"]
+www.amazon.com##[class*="fluid-card"]
+www.amazon.com##[class*="quad"]
+www.amazon.com##[class*="quad-category-card"]
+www.amazon.com##[class*="video-player"]
+www.amazon.com##[class*="video-player_static"]
+www.anandtech.com##.animenu.inner_nav.nav
+www.anandtech.com##.blog_top_left > .hide_resp2
+www.anandtech.com##.footer
+www.anandtech.com##.header
+www.anandtech.com##.header_right_btm
+www.anandtech.com##.hide_resp2.blog_top_right
+www.anandtech.com##.hide_resp2.breadcrumb_area
+www.anandtech.com##.search_area
+www.anandtech.com##.sidebar
+www.anandtech.com##nav.topic_inner.topic_menu
+www.anandtech.com##nav.topic_inner.topic_menu:nth-of-type(4)
+www.androidauthority.com###header-bar
+www.androidauthority.com##.aa-bottom-header-section
+www.androidauthority.com##.aa-top-header-section > .aa-cta-group
+www.androidauthority.com##.aa-top-header-section > .aa-popular-list
+www.androidauthority.com##.aa_opinions_shortcode_wrapper
+www.androidauthority.com##.aa_opinions_shortcode_wrapper > .overlay-link
+www.androidauthority.com##.billboard-wrapper.full-billboard-wrapper
+www.androidcentral.com##.article-header__disclosure-wrap
+www.androidcentral.com##.region-site-header.region
+www.atlasobscura.com###ArticleStickyRailTrack
+www.atlasobscura.com###site-feedback-wrap > .btn-stretch.btn
+www.atlasobscura.com##.CardRecircSection__article-footer.CardRecircSection--8-cards-lg.CardRecircSection.full-width-container
+www.atlasobscura.com##.container-fluid.site-top-notification-container
+www.atlasobscura.com##.FullWidthPromo--small.FullWidthPromo--rounded.FullWidthPromo
+www.atlasobscura.com##.hidden-xs.hidden-sm.ArticleHeader__social
+www.atlasobscura.com##.HorizontalCard
+www.atlasobscura.com##.ItemEndRow.itemTags
+www.atlasobscura.com##.js-inject-gtm-data-in-child-links
+www.atlasobscura.com##.js-membership-footer-banner.footer-banner
+www.atlasobscura.com##.nav-center-section
+www.atlasobscura.com##.new-footer
+www.atlasobscura.com##.ProgrammaticMembershipCallout--taboola-member-article-container.full-width-container
+www.atlasobscura.com##div.ItemEndRow:nth-of-type(1) > .--ArticleWrapper.HorizontalCardWrapper > .HorizontalCard
+www.atlasobscura.com##p:nth-of-type(25)
+www.axios.com###nav > div
+www.axios.com##.mt-10.sm\:space-y-10.space-y-6
+www.axios.com##[class*="gtmContentClick"]
+www.bankrate.com###iFrameResizer0
+www.bankrate.com##.b-test.sticky.editorial__social
+www.bartleby.com##.hide-for-small-only.hide-for-medium-only.large-4.columns
+www.bbc.co.uk###bbc-news-services
+www.bbc.co.uk###comp-elsewhere-on-the-bbc
+www.bbc.co.uk###comp-features-and-analysis
+www.bbc.co.uk###comp-pattern-library
+www.bbc.co.uk###comp-pattern-library-5
+www.bbc.co.uk###comp-top-stories-promo
+www.bbc.co.uk###core-navigation
+www.bbc.co.uk###idcta-link
+www.bbc.co.uk###orb-footer
+www.bbc.co.uk###orb-nav-links > ul
+www.bbc.co.uk###orb-search-form
+www.bbc.co.uk##.b-g-p.b-r.orb-nav-pri-container
+www.bbc.co.uk##.blue-tit__inner
+www.bbc.co.uk##.column--secondary
+www.bbc.co.uk##.ghost-column.show.share--lightweight.share
+www.bbc.co.uk##.more-on-this-story.story-alsos.group
+www.bbc.co.uk##.navigation--bottom__toplevel
+www.bbc.co.uk##.site-brand--height.site-brand
+www.bbc.co.uk##.site-brand-inner--height.site-brand-inner
+www.bbc.co.uk##.tags-container
+www.bbc.co.uk##.trust-project
+www.bbc.co.uk##.twite__share-button
+www.bbc.com##
+www.bbc.com###comp-pattern-library
+www.bbc.com###comp-pattern-library-2
+www.bbc.com###core-navigation
+www.bbc.com###orb-footer
+www.bbc.com###orb-header
+www.bbc.com##.adslot__mpu
+www.bbc.com##.around-the-bbc-swimlane
+www.bbc.com##.article-header__promo--is-active.article-header__promo > .similar-articles
+www.bbc.com##.article-labels__text
+www.bbc.com##.article__sidebar
+www.bbc.com##.article__similar-articles
+www.bbc.com##.column--secondary
+www.bbc.com##.ghost-column.show.share--lightweight.share
+www.bbc.com##.navigation--primary.navigation
+www.bbc.com##.share-tools--event-tag
+www.bbc.com##.StickyElementContent
+www.bbc.com##.story-body__unordered-list
+www.bbc.com##.story-more
+www.bbc.com##.tags-container
+www.bbc.com##.trust-project__inner
+www.bbc.com##div.WaypointsList__item:nth-of-type(3)
+www.bbc.com##div.WaypointsList__item:nth-of-type(even)
+www.bettertechtips.com##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_42_55c.vc_column
+www.blinkist.com##.\.header-with-signup-button__signup-button--active.js-header.header-with-signup-button--box-shadow.header-with-signup-button > .header-with-signup-button__inner > .header-with-signup-button__container > .header-with-signup-button__controls > .js-open-signup-popup.header-with-signup-button__signup-button
+www.blinkist.com##.post-header__sharetastic > .sharetastic
+www.blinkist.com##.post-sidebar-container
+www.blinkist.com##.sharetastic--side.sharetastic
+www.bloomberg.com###banner-outlet
+www.bloomberg.com###bb-that
+www.bloomberg.com###navi
+www.bloomberg.com###paywall-banner
+www.bloomberg.com##.bb-global-footer
+www.bloomberg.com##.bb-that
+www.bloomberg.com##.bottom-left-rail-touts
+www.bloomberg.com##.content-accessories--left-rail.content-accessories > .blens
+www.bloomberg.com##.content-accessories--left-rail.content-accessories > .share-article-button
+www.bloomberg.com##.css--recirc-wrapper.fVadDN.sc-cHGsZl
+www.bloomberg.com##.disqus-v2__tout
+www.bloomberg.com##.eyebrow-v2
+www.bloomberg.com##.inlineTout__d907d789.paywall-inline-tout
+www.bloomberg.com##.lede-large-image-v2
+www.bloomberg.com##.lineup-boomerang.hub-main
+www.bloomberg.com##.navi-bar
+www.bloomberg.com##.navi-bar__right
+www.bloomberg.com##.navi-breaking-news__live-stream__table
+www.bloomberg.com##.navi-push-notification-prompt
+www.bloomberg.com##.news-designed-for-consumer-media
+www.bloomberg.com##.postr-recirc--hyperdrive.postr-recirc
+www.bloomberg.com##.right-rail
+www.bloomberg.com##.share-article-button
+www.bloomberg.com##.sticky-container
+www.bloomberg.com##.storythread-tout
+www.bloomberg.com##.with-storythread-tout.right-rail-v2.right-rail
+www.bloomberg.com##.zipr-recirc__container
+www.bloomberg.com##.zipr-recirc__marquee-container
+www.bloomberg.com##[class*="mini-player"]
+www.bloomberg.com##[class*="right-rail"]
+www.bnnbloomberg.ca###related
+www.bnnbloomberg.ca##.article-feed
+www.bnnbloomberg.ca##.content-right
+www.bnnbloomberg.ca##.enableAutoPlay.article-media
+www.bnnbloomberg.ca##.feed-widget
+www.bnnbloomberg.ca##.hub-footer
+www.bnnbloomberg.ca##.main-header
+www.bnnbloomberg.ca##.section-header
+www.bnnbloomberg.ca##.tags
+www.bnnbloomberg.ca##.top-container
+www.boredpanda.com##.popular-post-recommendations
+www.boredpanda.com##div.post-bottom-recommendation-block
+www.boston.com###article-header-primary-term
+www.boston.com###comments
+www.boston.com##.content-social-inline
+www.boston.com##.grid__nested--left
+www.boston.com##.grid__nested--right
+www.boston.com##.m-article-list--floated.a-list-header__headline--red.a-pattern-frame--red.a-pattern-frame--small-horizontal.a-pattern-frame.m-article-list-container--frame-pattern.m-article-list-container.t-amp__list-container
+www.boston.com##.m-content-advert
+www.boston.com##.m-jump-to-comments.content-below-article
+www.boston.com##.o-site-header__advert
+www.boston.com##.o-site-header__masthead
+www.boston.com##.o-site-header__menu
+www.boston.com##.page-footer
+www.boston.com##.quick-nav.page-menu__wrapper--quick-nav.page-menu__wrapper
+www.boston.com##.spotim-recirculation
+www.boston.com##.t-layout__sidebar
+www.boston25news.com###app-bar
+www.boston25news.com###fbg4w12QEpO2Lr > .show
+www.boston25news.com###right-rail
+www.boston25news.com###top
+www.boston25news.com##.share-grid.list-unstyled.sharebar
+www.bostonglobe.com###bottom
+www.bostonglobe.com###right
+www.bostonglobe.com##.comments-container
+www.bostonglobe.com##.hidden
+www.bostonglobe.com##.masthead_scroll
+www.bostonglobe.com##.meter-progress-bar1.meter-progress-bar--visible.meter-progress-bar
+www.bostonglobe.com##.meter-progress-bar__link
+www.bostonglobe.com##.meter-social-connect--visible.meter-social-connect
+www.bostonglobe.com##.meter-social-connect--visible.meter-social-connect
+www.bostonglobe.com##.meter-social-connect--visible.meter-social-connect
+www.bostonglobe.com##.meter-social-connect--visible.meter-social-connect
+www.bostonglobe.com##.meter-social-connect__container
+www.bostonglobe.com##.meter-social-connect__container
+www.bostonglobe.com##.meter-social-connect__container
+www.bostonglobe.com##.relative.padding_top_48.padding_bottom_64.column.container.color_black.\|.footer
+www.bostonglobe.com##.sign_in_settings_container
+www.bostonherald.com###cookie-notice
+www.bostonherald.com##.alert-bar-message > p
+www.bostonherald.com##.article-footer
+www.bostonherald.com##.breadcrumbs
+www.bostonherald.com##.breaking-bar
+www.bostonherald.com##.comments-link
+www.bostonherald.com##.header-title-area > .article-share
+www.bostonherald.com##.headroom--top.headroom--pinned.headroom.default.site-header
+www.bostonherald.com##.more-news
+www.bostonherald.com##.nav-wrapper
+www.bostonherald.com##.sidebar-content
+www.bostonherald.com##.site-footer
+www.bostonherald.com##.swappable
+www.bostonherald.com##.tags
+www.bostonherald.com##.widget-trending-stories.widget
+www.breitbart.com###HeadW
+www.breitbart.com###HWI
+www.breitbart.com###HWT > section
+www.breitbart.com###SideW
+www.brookings.edu##.expandable-list-wrapper.linear-related
+www.brookings.edu##.main-nav > .sd-sharing-enabled.sharedaddy
+www.brookings.edu##.report-sidebar
+www.brookings.edu##.rollup.full.newsletter-module.newsletter
+www.brookings.edu##.site-footer
+www.brookings.edu##.top.pinned.site-header
+www.businessinsider.com###l-rightrail > section
+www.businessinsider.com##.as-oil-content-overlay
+www.businessinsider.com##.post-content-more
+www.buzzfeed.com###js-header-container
+www.buzzfeed.com###mod-badge-bar-1
+www.buzzfeed.com###mod-feedgrid-1
+www.buzzfeed.com##.action-bar-wrapper--top.action-bar-wrapper
+www.buzzfeed.com##.xs-pb2.list-unstyled.recsys-related-content__list
+www.buzzfeednews.com###mod-action-bar-2
+www.buzzfeednews.com###mod-feedgrid-1
+www.buzzfeednews.com###mod-site-component-thumbstrip-1
+www.buzzfeednews.com###mod-subbuzz-image-1 > .subbuzz__media > .subbuzz__media--full-width-container
+www.buzzfeednews.com###mod-support-cta-1
+www.buzzfeednews.com##.bfp-related-links
+www.buzzfeednews.com##.bottom-recirc-lists
+www.buzzfeednews.com##.js-action-bar--position-article-top.action-bar--horizontal.action-bar--article-top.action-bar
+www.buzzfeednews.com##.md-block.xs-hide.thumbstrip__container
+www.buzzfeednews.com##.news-article-breadcrumbs
+www.buzzfeednews.com##.newsblock-page-footer
+www.buzzfeednews.com##.newsblock-support-cta--bottom.newsblock-support-cta
+www.buzzfeednews.com##.newsblock-trending-tags-bar
+www.buzzfeednews.com##.thumbstrip
+www.buzzfeednews.com##.xs-flex-justify-end.xs-flex-align-center.newsblock-navigation-links__list
+www.buzzfeednews.com##.xs-mx-auto.lg-flex.comments-chumbox-wrap
+www.buzzfeednews.com##body > header
+www.caixinglobal.com##.firstShowText
+www.capecodtimes.com###article-storyStrip
+www.capecodtimes.com###footer-main
+www.capecodtimes.com###header-main
+www.capecodtimes.com##.article-v2-left
+www.capecodtimes.com##.clearfix.inner
+www.capecodtimes.com##.vendor-full > p
+www.capitalone.com##.layout-hero.arrow-color-invert > container-carousel
+www.cbc.ca##.commentsWrapper > .detailMainCol
+www.cbc.ca##.contentFeedback
+www.cbc.ca##.detailSideRail
+www.cbc.ca##.landingNav.sclt-landingnav
+www.cbc.ca##.relatedlinks
+www.cbc.ca##.sclt-footer.globalFooter
+www.cbc.ca##.sclt-storySectionLink.detail-link-label
+www.cbc.ca##.similarLinks
+www.cbc.ca##div.stickyContainer
+www.chicagotribune.com###right-rail
+www.chicagotribune.com##.breaking-alert-wrapper
+www.chicagotribune.com##.clln-hv.clln-inset.flex-container-row.clln-htal.clln.slider-container
+www.chicagotribune.com##.met-flyout
+www.chron.com###comments
+www.chron.com###ctpl-fullbanner-spacer
+www.chron.com###ctpl-fullbanner1
+www.chron.com###subHead-spacer
+www.chron.com##.article-share
+www.chron.com##.article-sidebar
+www.chron.com##.asset_relatedlinks
+www.chron.com##.total-4
+www.chron.com##footer
+www.chron.com##header
+www.citylab.com###bb-that
+www.citylab.com##.bb-global-footer
+www.citylab.com##.c-nav--header.c-nav
+www.citylab.com##.c-newsletter--cta.c-newsletter--promo.c-newsletter
+www.citylab.com##.c-related-content__container
+www.citylab.com##.js-action-bar-active.o-small-container.c-tmp-share-sponsored-container
+www.citylab.com##.l-header--article.l-header
+www.citylab.com##.l-sponsored
+www.citylab.com##.lazyloaded.c-disqus
+www.citylab.com##.lazyloaded.u-lazy.c-ballyhoos
+www.citylab.com##.lazyloaded.u-lazy.js-action-bar-disable.c-article-most-popular
+www.citylab.com##.lazyloaded.u-lazy.u-full-width.c-related-content
+www.cnbc.com###\35 thingsbanner_dismissal_morning
+www.cnbc.com###GlobalFooter
+www.cnbc.com###GlobalNavigation
+www.cnbc.com###social-buttons-transporter
+www.cnbc.com##.ArticleHeader-eyebrow
+www.cnbc.com##.PageBuilder-sidebar.SidebarArticle-sidebar
+www.cnbc.com##.SectionWrapper-container
+www.cnbc.com##.TopBanner-container
+www.cnet.com###article-body > .col-4
+www.cnet.com###article-body > .row.article-main-body.col-7 > .v2.video.shortcode
+www.cnet.com##[href="/pictures/holiday-2017-best-smartwatches-fitness-trackers/"]
+www.cnn.com###footer-nav-container
+www.cnn.com##.BasicArticle__hero
+www.cnn.com##.BasicArticle__heroWrapper
+www.cnn.com##.pg-rail-tall__rail.pg-rail
+www.cnn.com##div.carousel__content__item.cn__column
+www.cnn.com##div.el__embedded--fullwidth.el__embedded:nth-of-type(2) > .js__image--fullwidth.el__image--fullwidth > div > .media__image--responsive.media__image
+www.collabora.com###HeroElementBGImage
+www.collabora.com##._2016Newfooter.fullwidthWrapper2016
+www.collabora.com##.breadcrumbWrapper
+www.collabora.com##.contentPage.heroElementWrapper
+www.collabora.com##.feedWrapper
+www.collabora.com##.headerWrapper2016
+www.collabora.com##.newsroom2019PostAuthorSocials.blogSharingWrapper
+www.collabora.com##.post-comments
+www.collabora.com##.ShowRelatedPosts
+www.consumerreports.org##.article > .crux-container.content > .row
+www.consumerreports.org##.globalfooter.parbase.global-footer
+www.consumerreports.org##.gnav-breadcrumbs > ul
+www.consumerreports.org##.multiple.crux-background-gray-bg.rel-article
+www.consumerreports.org##.relatedarticles
+www.creditkarma.com##.br2.ck-shadow.bg-white.pa3.mw6.center.w-100
+www.creditkarma.com##.mb4.w-100
+www.cyberciti.biz###colophon
+www.cyberciti.biz###comments
+www.cyberciti.biz###content-bottom-widgets > .widget-area
+www.cyberciti.biz###masthead
+www.cyberciti.biz###nav > .container
+www.cyberciti.biz###secondary
+www.cyberciti.biz##.note
+www.cyberciti.biz##.num_comments_link
+www.cyberciti.biz##.post-navigation.navigation
+www.cyberciti.biz##.sidebar
+www.cyberciti.biz##.tags-links
+www.cyberciti.biz##.text.prev_next
+www.dailymail.co.uk###articleIconLinksContainer
+www.dailymail.co.uk###infinite-list
+www.dailymail.co.uk###most-watched-videos-lazy-container
+www.dailymail.co.uk###most-watched-videos-wrapper
+www.dailymail.co.uk###vjs_video_3
+www.dailymail.co.uk##.and-footer
+www.dailymail.co.uk##.article-id-10580909.article-reader-comments
+www.dailymail.co.uk##.beta
+www.dailymail.co.uk##.footer
+www.dailymail.co.uk##.has-button-share.floating-buttons
+www.dailymail.co.uk##.mini.shallow-ac > .rotator
+www.dailymail.co.uk##.mol-video.moduleFull
+www.dailymail.co.uk##.page-footer
+www.dailymail.co.uk##.page-header
+www.dailymail.co.uk##div:nth-of-type(3) > div:nth-of-type(14)
+www.dezeen.com##.carousel-wrap
+www.dezeen.com##.rh-related-wrapper
+www.dezeen.com##.right-column
+www.diffen.com###breadcrumbs
+www.diffen.com###header
+www.diffen.com###sharebox
+www.differencebetween.com##.widget-area.sidebar-primary.sidebar
+www.discovermagazine.com##.social-icon
+www.discovermagazine.com##.subscriber-auth
+www.dummies.com###navbar
+www.dummies.com##.aside-container
+www.dummies.com##.breadcrumb
+www.dummies.com##.half-padding.ads
+www.dummies.com##.main-header
+www.eastbaytimes.com##.article-footer
+www.eastbaytimes.com##.breadcrumbs
+www.eastbaytimes.com##.dfm-trust-indicators-footer-links
+www.eastbaytimes.com##.headroom--top.default.site-header
+www.eastbaytimes.com##.more-news
+www.eastbaytimes.com##.related
+www.eastbaytimes.com##.site-footer
+www.eastbaytimes.com##.swappable.article-sidebar
+www.ebay.com###hlGlobalFooter
+www.ebay.com##.column-recos
+www.ebay.com##.hl-loyalty
+www.ebay.com##.hl-popular-destinations
+www.ebay.com##.hl-recommended-sellers-V2__header
+www.ebay.com##.merch-placeholder
+www.ebay.com##[class*="carousel"]
+www.economist.com###_evidon_banner
+www.economist.com###column-right
+www.economist.com###gpt-ad-slot-1
+www.economist.com###gpt-ad-slot-right-rail
+www.economist.com###gpt-ad-slot-right-rail-r0
+www.economist.com###gpt-ad-slot-right-rail-r1
+www.economist.com###sp_message_container_617100
+www.economist.com##.ds-call-to-action
+www.economist.com##.ds-footer
+www.economist.com##.ds-share-list
+www.economist.com##.layout-article-sharing
+www.economist.com##.navigation__primary-expander-subscribe-button
+www.economist.com##.related-articles
+www.economist.com##.ribbon__body-slider-content
+www.economist.com##.ribbon__header
+www.economist.com##.stco__full-width-wrapper
+www.economist.com##.subscription-proposition
+www.economist.com##div.ds-layout-grid--edged.ds-layout-grid:nth-of-type(3)
+www.educba.com###text-498 > .widget-wrap
+www.educba.com##.breadcrumb
+www.educba.com##.fixed.site-header
+www.educba.com##.page-header
+www.educba.com##.topbar
+www.educba.com##.widget-area.sidebar-primary.sidebar
+www.elephantjournal.com###outer-header-wrapper
+www.elephantjournal.com##.single.container > .desktop-only
+www.engadget.com###engadget-context-nav
+www.engadget.com###engadget-global-footer
+www.engadget.com###engadget-global-nav
+www.engadget.com###engadget-header
+www.engadget.com###engadget-post-continued-contents > .o-article_block
+www.engadget.com###engadget-recirculation-module
+www.engadget.com###recirculation > div > div
+www.engadget.com###right-ads-rail
+www.engadget.com##.bc-gray-2.container.mb-20.mt-20.pb-15\@.o-title_mark
+www.engadget.com##.c-gray-9.o-social_nav
+www.engadget.com##.c-inherit-\*\:hvr.c-white\:hvr.hit.h-80.border-right.border-left.pr-60.pl-60.vt.i-context_nav__related_btn.hide\@tl-
+www.engadget.com##.hide\@tl-
+www.engadget.com##.o-aside-posts
+www.engadget.com##.o-grid_divider_mask.mt-n60\@tp\+.flex-wrap.flex.grid > .full-width
+www.engadget.com##.o-h.th-base > div.container > .grid
+www.engadget.com##.o-hit
+www.engadget.com##.vm.grid__cell
+www.fastcompany.com###social--3048789
+www.fastcompany.com##.dianomiScriptContainer.dianomi_context
+www.fastcompany.com##.image-wrapper.inline.inline-large
+www.fastcompany.com##.masthead__interactive
+www.fastcompany.com##.newsletter-signup__container
+www.fastcompany.com##.post__sidebar
+www.fastcompany.com##.recirc
+www.fastcompany.com##.topnav-newsletter-container
+www.fictiv.com##.top-line.section
+www.fiercehealthcare.com###header > .wrapper
+www.fiercehealthcare.com###sidebar-second
+www.fiercehealthcare.com##.block-generic-footer-block.block-tektite-generic-blocks.block
+www.fiercehealthcare.com##.clearfix.node--view-mode-body-embed-promo.node--type-embed-promo.node
+www.fiercehealthcare.com##.js-view-dom-id-693305a2acda1c28875c054463d38f51ef472cd7fb93ddef17967287ced928ed.list-group
+www.fiercehealthcare.com##.keywords-topics
+www.fiercehealthcare.com##.region-content-bottom
+www.fiercehealthcare.com##.taxonomy-primary
+www.forbes.com###article-container-0 > div.article-wrapper:nth-of-type(2) > .right-rail
+www.forbes.com###article-container-1
+www.forbes.com###article-container-1 > .article-wrapper > .body-container
+www.forbes.com###article-container-2
+www.forbes.com###article-container-3
+www.forbes.com###article-container-4
+www.forbes.com###article-stream-0 > .article-wrapper > .body-container > .article-body-container > .article-footer
+www.forbes.com###article-stream-1
+www.forbes.com##.article-footer
+www.forbes.com##.article-sharing
+www.forbes.com##.bertie-badge
+www.forbes.com##.embed-11.finds-module-embed.embed-base
+www.forbes.com##.embed-14.finds-module-embed.embed-base
+www.forbes.com##.embed-17.finds-module-embed.embed-base
+www.forbes.com##.embed-19.finds-module-embed.embed-base
+www.forbes.com##.embed-21.finds-module-embed.embed-base
+www.forbes.com##.embed-22
+www.forbes.com##.embed-23.finds-module-embed.embed-base
+www.forbes.com##.header
+www.forbes.com##.header__channels
+www.forbes.com##.header__nav
+www.forbes.com##.link-embed
+www.forbes.com##.recirc-unit
+www.forbes.com##.right-rail
+www.foreignaffairs.com##.active.newsletter-backdrop
+www.foreignaffairs.com##.article-tools__wrapper
+www.foreignaffairs.com##.lead-story-most-read
+www.foreignaffairs.com##.offset-lg-0.offset-md-2.col-md-8.flex-column.align-items-center.d-lg-flex.col-lg-4.d-none
+www.foreignaffairs.com##.trending-topics-list
+www.foxnews.com##.\39 30hemjdrmmd
+www.foxnews.com##.article-content > .article-meta
+www.foxnews.com##.article-footer
+www.foxnews.com##.sidebar-columns
+www.foxnews.com##.site-footer
+www.foxnews.com##.tablet-desktop.nav-row-lower.nav-row
+www.freecodecamp.org##.banner
+www.freecodecamp.org##.footer-container
+www.freecodecamp.org##.learn-cta-row
+www.freecodecamp.org##.nav-padding.site-nav
+www.freecodecamp.org##.site-nav-logo
+www.geeksforgeeks.org##.rightBar
+www.generalmillscf.com###primaryActionToolbarSection
+www.getrichslowly.org##.page-section-outer.logos-section-outer
+www.gislounge.com###cookie-law-info-bar
+www.gislounge.com###text-39
+www.gislounge.com##.boxed
+www.gislounge.com##.sidebar-wide-top
+www.goodreads.com###buyButtonContainer
+www.goodreads.com###discoveryBox
+www.goodreads.com###friendReviews
+www.goodreads.com##.asyncPreviewButtonContainer
+www.goodreads.com##.BetaFeedbackButton
+www.goodreads.com##.BookActions
+www.goodreads.com##.BookDiscussions
+www.goodreads.com##.BookPage__relatedBottomContent
+www.goodreads.com##.BookPage__relatedTopContent
+www.goodreads.com##.BookPage__reviewsSection
+www.goodreads.com##.BookPageMetadataSection__genres
+www.goodreads.com##.ctaBannerShown
+www.goodreads.com##.mediumText.communityQASignedOutMessage
+www.goodreads.com##.newsPreview__item
+www.goodreads.com##.rightContainer
+www.goodreads.com##.sellingPointBoxLeft
+www.goodreads.com##.sellingPointBoxRight
+www.goodreads.com##.ShareIcon.Icon
+www.goodreads.com##.siteHeader__topFullImageContainer
+www.goodreads.com##.SiteHeaderBanner
+www.goodreads.com##.u-clearBoth.featureTeaserBox
+www.goodreads.com##.uitext.promoHeader
+www.goodreads.com##.wtrRating
+www.goodreads.com##.wtrUp
+www.goodreads.com##article
+www.goodreads.com##div.bigBox.clearFloats:nth-of-type(2) > .gradientHeaderContainer.h2Container
+www.healthcaredive.com##.baseline-footer
+www.healthcaredive.com##.custom-article-footer
+www.healthcaredive.com##.js-search-hide.menu-search
+www.healthcaredive.com##.menu-bar.topics
+www.healthcaredive.com##.post-article-topics
+www.healthcaredive.com##.post-label--loud.post-label
+www.healthcaredive.com##.pre-footer
+www.healthcaredive.com##.reading-list
+www.healthcaredive.com##.sidebar
+www.healthcaredive.com##footer
+www.healthcaredive.com##header
+www.hindawi.com##.notification
+www.hollywoodreporter.com##.u-margin-b-2\@mobile-max.lrv-a-space-children--2.lrv-a-space-children-vertical.lrv-a-grid-item
+www.hollywoodreporter.com##.u-margin-b-3\@desktop-xl.u-margin-t-4\@desktop-xl.u-margin-tb-250.\/\/.injected-related-story
+www.homedepot.com##div.col__12-12--xl.col__12-12--lg.col__12-12--md.col__10-12--sm.col__12-12--xs.col__12-12:nth-of-type(1) > .content > .content_image > [href="/b/Storage-Organization/Store-More-Save-More/N-5yc1vZas7eZ1z1c8o1"] > picture > .stretchy
+www.homedepot.com##div.col__12-12--xl.col__12-12--lg.col__12-12--md.col__10-12--sm.col__12-12--xs.col__12-12:nth-of-type(3) > .content > .content_image > [href="/b/Storage-Organization/Store-More-Save-More/N-5yc1vZas7eZ1z1c8o1"] > picture > .stretchy
+www.housebeautiful.com###unitedWayBanner
+www.housebeautiful.com##.bar-content-disclaimer.affiliate-disclaimer
+www.housebeautiful.com##.top-pathing
+www.houstonchronicle.com##.hdnce-collection-107280-dynamic_four_pack.hdnce-e.hide-rss-link
+www.houstonchronicle.com##.lock.bottomZone.zone
+www.houstonchronicle.com##.standard.pageHeader
+www.howtogeek.com##.sidepopwrap
+www.htpcguides.com###text-18
+www.huffingtonpost.ca##.sprc2vg5s.sprc2PlxR
+www.huffingtonpost.ca##.yr-col-body-right.col--body-right.col
+www.huffpost.com###footer
+www.huffpost.com##.below-entry
+www.huffpost.com##.fixed
+www.huffpost.com##.inline-subscription-module
+www.huffpost.com##.yr-related-articles.related-articles--list.related-articles
+www.huffpost.com##.yr-right-rail
+www.huffpost.com##.yr-tag-cloud
+www.huffpost.com##.zone
+www.hunker.com###site-header
+www.hunker.com##.clearfix.inner--padding.inner
+www.hunker.com##.is-first.article.component-configurable-article > .article-wrapper > .inner > .article-content-wrapper > .mobile-show.desktop-show.article-right-rail
+www.hunker.com##.is-first.article.component-configurable-article > .article-wrapper > .inner > .article-content-wrapper > .social-share-container
+www.hunker.com##.is-first.article.component-configurable-article > .article-wrapper > .inner > .breadcrumb-wrapper
+www.hunker.com##div.infinite-scroll-article-wrapper:nth-of-type(2) > .article.component-configurable-article > .article-wrapper > .inner > .article-content-wrapper > .mobile-show.desktop-show.article-right-rail
+www.hunker.com##div.infinite-scroll-article-wrapper:nth-of-type(2) > .article.component-configurable-article > .article-wrapper > .inner > .article-content-wrapper > .social-share-container
+www.hunker.com##div.infinite-scroll-article-wrapper:nth-of-type(3)
+www.idigitalhealth.com##.bgClick2.left
+www.idigitalhealth.com##.left.main_right
+www.idigitalhealth.com##.topBg
+www.ilovefreesoftware.com###bunyad-latest-posts-widget-2
+www.ilovefreesoftware.com###bunyad-latest-posts-widget-3
+www.ilovefreesoftware.com###search_box
+www.ilovefreesoftware.com###text-13
+www.ilovefreesoftware.com##.author-posts
+www.ilovefreesoftware.com##.bot-mar.cf.ts-row
+www.ilovefreesoftware.com##.cf.social-icons
+www.ilovefreesoftware.com##.comment-count
+www.ilovefreesoftware.com##.dark.main-footer
+www.ilovefreesoftware.com##.sidebar.col-4
+www.imdb.com###maindetails_sidebar_bottom
+www.imdb.com###sidebar
+www.imdb.com###title_completed_pro_link
+www.imdb.com###titleCast > .pro_logo_main_title
+www.imdb.com###titleRecs
+www.imdb.com###titleVideoStrip
+www.imdb.com##.banner-container
+www.imdb.com##.imdb-footer
+www.imdb.com##.imdb-header__watchlist-button
+www.imdb.com##.navbar__flyout--positionLeft.navbar__flyout--breakpoint-l.sVyDb.sc-gzVnrw.navbar__imdb-tv.gCxiUc.sc-kGXeez
+www.imdb.com##.navbar__imdb-pro--toggle
+www.imdb.com##.recently-viewed
+www.imdb.com##.video.loadlate
+www.imdb.com##.watch-widget
+www.imdb.com##.watchlist-watchbox--titlemain
+www.imore.com##.article-header__disclosure-wrap
+www.imore.com##.article-header__tag
+www.imore.com##.block--sidebar-promo.block
+www.imore.com##.header-top-inner2
+www.imore.com##.region-site-header.region
+www.imore.com##.share
+www.inc.com##.eyebrow
+www.inc.com##[class*="footer"]
+www.inc.com##[class*="Rail"]
+www.independent.co.uk###header
+www.independent.co.uk##.comment-count
+www.independent.co.uk##.sidebar
+www.indiatimes.com###content_description_loader_503357 > .social-container
+www.indiatimes.com##.cf.video--inner--block
+www.indiatimes.com##.click-div
+www.indiatimes.com##.main-container > .cf.list-container
+www.indiatimes.com##.pull-right.right-container
+www.insidehighered.com###header > .clearfix.section
+www.insidehighered.com##.illyb.pane-refresh-design.pane-views.panel-pane
+www.insidehighered.com##.interim-large-photo
+www.insidehighered.com##.panel-col-last.panel-panel
+www.isumsoft.com##.bread
+www.isumsoft.com##.header
+www.isumsoft.com##.sidebar-right
+www.isumsoft.com##ul.quick-links
+www.itsupportguides.com##.widget-area
+www.jacobinmag.com##.po-ca-xc__container
+www.jacobinmag.com##.po-ca__container
+www.jacobinmag.com##.po-fr-tx
+www.jacobinmag.com##.prt-x.bn-at
+www.jacobinmag.com##.prt-x.po-hr-fl
+www.jacobinmag.com##.prt-x.po-sr--b.po-sr-sb
+www.jacobinmag.com##.prt-x.po-sr-ed--c.po-sr--c.po-sr-ed
+www.jacobinmag.com##.prt-x.si-fr
+www.jacobinmag.com##.prt-x.si-hr
+www.kayak.com###c-sqN-rightRail
+www.kqed.org##.components-Ad-___Ad__ad__fullwidth.components-Ad-___Ad__ad
+www.kqed.org##.components-EmailSignup-components-SignupOld-___SignupOld__signup
+www.kqed.org##.components-Label-___Label__postLabel
+www.kqed.org##.components-NavBarDesktop-___NavBarDesktop__primaryMenu
+www.laphamsquarterly.org##.callout-section
+www.latimes.com###ensNotifyBanner
+www.latimes.com##.ArticlePage-actionsSticky-content
+www.latimes.com##.ArticlePage-aside
+www.latimes.com##.ArticlePage-contentFooter
+www.latimes.com##.breadcrumbs
+www.latimes.com##.met-flyout
+www.latimes.com##.page-footer
+www.latimes.com##.page-main-content-footer
+www.latimes.com##.rail
+www.latimes.com##.tags
+www.lifewire.com###breadcrumbs_1-0
+www.lifewire.com###header_1-0
+www.lifewire.com###masonry-list-section_1-0
+www.lifewire.com###mntl-leaderboard-spacer_1-0
+www.lifewire.com##.right-rail__offset.pre-content.loc
+www.linux.com##.td_block_template_4.td-pb-border-top.td_with_ajax_pagination.td_uid_3_5e3ac525b3b0c_rand.td-related-full-width.td_block_related_posts.td_block_wrap
+www.linuxandubuntu.com##.penci-entry-categories
+www.linuxandubuntu.com##.penci-entry-media.entry-media
+www.linuxandubuntu.com##.penci-mul-comments-wrapper
+www.linuxandubuntu.com##.penci-post-pagination
+www.linuxandubuntu.com##.penci-sidebar-widgets.penci-sticky-sidebar.widget-area-1.widget-area
+www.linuxandubuntu.com##.penci_media_object.penci-post-author
+www.linuxandubuntu.com##.site-footer
+www.linuxandubuntu.com##.site-header-wrapper
+www.maketecheasier.com###secondary
+www.makeuseof.com##.header
+www.makeuseof.com##.heading_breadcrumb
+www.makeuseof.com##.sidebar
+www.makeuseof.com##.sidebar-trending
+www.makeuseof.com##div.article-template-hero.infinite-post.single-post:nth-of-type(1) > .container-wrap > .layout-block > .rte.single-post-content > .post-body > span.visible.link-callout:nth-of-type(2)
+www.makeuseof.com##div.article-template-hero.infinite-post.single-post:nth-of-type(1) > .container-wrap > .layout-block > .rte.single-post-content > .post-body > span.visible.link-callout:nth-of-type(3)
+www.makeuseof.com##div.article-template-hero.infinite-post.single-post:nth-of-type(1) > .container-wrap > .layout-block > .single-post-sidebar
+www.makeuseof.com##div.article-template-hero.infinite-post.single-post:nth-of-type(3)
+www.makeuseof.com##div.single-post-transition-bar
+www.makeuseof.com##span.visible.link-callout:nth-of-type(4)
+www.makeuseof.com##span.visible.link-callout:nth-of-type(5)
+www.marketwatch.com###article-tools
+www.marketwatch.com###brass-rail
+www.marketwatch.com###right-rail
+www.marketwatch.com###share-bar
+www.marketwatch.com###site-search-button
+www.marketwatch.com##.article__byline.byline
+www.marketwatch.com##.article__footer.column--full.column
+www.marketwatch.com##.article__header.column--full.column > .article__figure
+www.marketwatch.com##.article__masthead > .zonedModule
+www.marketwatch.com##.breadcrumb-container
+www.marketwatch.com##.breadcrumbs.element--list.element
+www.marketwatch.com##.container--masthead.container.j-masthead
+www.marketwatch.com##.full-width.bulletins.column--full.column
+www.marketwatch.com##.full-width.container--footer.container
+www.marketwatch.com##.full-width.masthead.column--full.column
+www.marketwatch.com##.list--menu.list
+www.marketwatch.com##.profile
+www.marketwatch.com##.region--aside.region > .column--full.column
+www.marketwatch.com##.template--full.template
+www.medtechdive.com##.baseline-footer
+www.medtechdive.com##.call-out.signup
+www.medtechdive.com##.columns.large-4.sidebar
+www.medtechdive.com##.js-search-hide.menu-search
+www.medtechdive.com##.menu-bar.topics
+www.medtechdive.com##.post-article-wrapper
+www.medtechdive.com##.post-label--loud.post-label
+www.medtechdive.com##.pre-footer
+www.medtechdive.com##footer
+www.medtechdive.com##header > .site-menu
+www.merriam-webster.com###definition-wrapper > .clearfix
+www.merriam-webster.com##.additional-content-area
+www.merriam-webster.com##.bottom.heavy-break
+www.merriam-webster.com##.global-footer
+www.merriam-webster.com##.items__header
+www.merriam-webster.com##.learn-more-module-anchor.heavy-break
+www.merriam-webster.com##.learn_more.widget
+www.merriam-webster.com##.link-bar-l
+www.merriam-webster.com##.right-rail
+www.merriam-webster.com##.save-to-list
+www.merriam-webster.com##.seen-and-heard-block.widget
+www.merriam-webster.com##[href="/words-at-play/eighty-six-meaning-origin"] > .ratio-3-2.lazyload-container
+www.merriam-webster.com##[href="/words-at-play/eighty-six-meaning-origin"] > .ratio-3-2.lazyload-container > .lazyload
+www.microcenter.com###ads
+www.microcenter.com###IntelBuilder
+www.microcenter.com###MerchZoneSearchTop
+www.microcenter.com##.alert-cookie-policy.alert
+www.microcenter.com##.InsiderPromo3
+www.mirror.co.uk###social-follow
+www.mirror.co.uk##.publication-theme-border.embedded-image-grid
+www.mirror.co.uk##.secondary.related-column
+www.mobihealthnews.com###boxes-box-subsctiption_middle
+www.mobihealthnews.com##.field-label-hidden.field-type-ds.field-name-more-regional-news.field
+www.mobihealthnews.com##.footer
+www.motherjones.com###eoa-recent
+www.motherjones.com###eoa-recommend
+www.motherjones.com###eoa-related
+www.motherjones.com###footer-promo-mag
+www.motherjones.com###masthead
+www.motherjones.com###mj-comments-container
+www.motherjones.com###site-footer-promos
+www.motherjones.com###static-navbar
+www.motherjones.com###topnav
+www.motherjones.com##.col-8.subscribe-donate
+www.motherjones.com##.col-xxs-12.col-xs-12.col-sm-10.col-md-12.col-lg-1.offset-1.mj-article-left
+www.motherjones.com##.entry-footer
+www.motherjones.com##.format-letter.ticker-content
+www.motherjones.com##.grid.container
+www.motherjones.com##span > .wp-post-image.skip-lazy
+www.msn.com###header-common
+www.msn.com##.head
+www.msn.com##.playershrunk.xnetvidplayer
+www.msn.com##body > .normalsection > .full-width > .sectioncontent
+www.myabandonware.com###artCT
+www.myabandonware.com###ddneu
+www.myanonamouse.net###msb
+www.nationalgeographic.com##.CarouselModule__CarouselContainer
+www.nationalgeographic.com##.GeneralContainer
+www.nationalgeographic.com##.GeneralContainer--fullWidth.GeneralContainer
+www.nationalgeographic.com##.GlobalNav
+www.nationalgeographic.com##.NavBar
+www.nationalgeographic.com##.ReadThisNext__Wrapper
+www.nationalgeographic.com##.RegularStandardPrismTile__ContentLink
+www.nationalgeographic.com##.RegularStandardPrismTile__Image
+www.nationalgeographic.com##.TileStackCarousel--dark.TileStackCarousel
+www.nationalgeographic.com##[id*="globalpromo"]
+www.nature.com###breadcrumbs
+www.nature.com###extranav
+www.nature.com###footer
+www.nature.com###foreword
+www.nature.com###latest-content
+www.nature.com###related-links
+www.nature.com##.box.related-stories-box
+www.nature.com##.c-breadcrumbs
+www.nature.com##.c-corporate-footer
+www.nature.com##.c-header
+www.nature.com##.cc-banner
+www.nature.com##.comment-closed.status-message
+www.nature.com##.endnotes
+www.nature.com##.extra.article-tools.cleared
+www.nature.com##.hide-print
+www.nature.com##.hide-print.inline-list.clean-list.social
+www.nature.com##.hide-print.shrink--aside.related-content
+www.nature.com##.leaderboard-or-billboard-container.u-hide-print
+www.nature.com##.top-row
+www.nature.com##.u-float-left.c-article-main-column > span > .c-nature-box--side.c-nature-box
+www.nature.com##.u-hide-print
+www.nature.com##.ugc.comments-post-grapevine
+www.nature.com##[href="https://www.nature.com/articles/d41586-018-07883-z"] > .recommended__image
+www.nature.com##[href="https://www.nature.com/articles/d41586-018-07883-z"] > .serif.recommended__title
+www.nature.com##aside.sans-serif.pull--left.pull.recommended:nth-of-type(3)
+www.nature.com##aside.sans-serif.pull--left.pull.recommended:nth-of-type(even)
+www.nature.com##aside.sans-serif.pull--left.pull.recommended:nth-of-type(odd)
+www.nature.com##body > .composite-layer
+www.nbc.com##.footer__container
+www.nbc.com##.footer__legal
+www.nbc.com##.shelf__wrapper
+www.nbcboston.com##.site-footer
+www.nbcnews.com##.global
+www.nbcnews.com##.hfsf
+www.nbcnews.com##section.dn-print.related--single.related:nth-of-type(even)
+www.nbcnews.com##section.dn-print.related--single.related:nth-of-type(odd)
+www.nejm.org##.o-meter
+www.newbedfordguide.com###glt-translate-trigger
+www.newsweek.com###block-ibtg-footer-ibtg-footer
+www.newsweek.com##.col-md-4.page-sidebar
+www.newsweek.com##.container.subscription
+www.newsweek.com##.content-correction
+www.newsweek.com##.ic.related
+www.newsweek.com##.imageLeft
+www.newsweek.com##.latest-in
+www.newyorker.com##.callout--content-type--external-link-embed
+www.newyorker.com##.content-footer
+www.newyorker.com##.journey-unit
+www.newyorker.com##.Layout__sidebar___2GcEE
+www.newyorker.com##.Layout__social___jaQeD
+www.newyorker.com##.site-footer__container
+www.nybooks.com##.leaky_paywall_message_wrap
+www.nydailynews.com###left-bottom
+www.nydailynews.com###right-rail
+www.nydailynews.com##.artcl--r-sp
+www.nydailynews.com##.clln--it.nws-cnt.crd
+www.nydailynews.com##.container.app-bar-inner
+www.nydailynews.com##.hddn-mble.hover-nav-buttons.slider
+www.nydailynews.com##.sharebar
+www.nydailynews.com##.sticky-leaderboard
+www.nydailynews.com##.tag-first.tag-solid.tag
+www.nytimes.com###c-col-editors-picks
+www.nytimes.com###comments-speech-bubble-bottom
+www.nytimes.com###gateway-content
+www.nytimes.com###recirc-lonely-trending
+www.nytimes.com###site-index
+www.nytimes.com##.css-1qor430
+www.nytimes.com##.css-1s7w4b0
+www.nytimes.com##.css-nuvmzp
+www.nytimes.com##.dockCard__content
+www.nytimes.com##.efw9frv0.css-3fbowa.expanded-dock.expanded.shown.MAG_web_all_Monthly-Sale-dock
+www.nytimes.com##.ejw0p350.css-9ghvn0 > div
+www.nytimes.com##.epjyd6m1
+www.nytimes.com##[class*="live-blog-above-main-content"]
+www.nytimes.com##[class*="related-links"]
+www.nytimes.com##[id*="editors-picks"]
+www.omgubuntu.co.uk###disqus_thread
+www.omgubuntu.co.uk###omg_related_posts-3
+www.omgubuntu.co.uk##.omg-socials
+www.omgubuntu.co.uk##.page-footer
+www.omgubuntu.co.uk##.post-links--tags.post-links
+www.omgubuntu.co.uk##div.post-links:nth-of-type(2)
+www.online-tech-tips.com##.sidebar
+www.ostechnix.com###header
+www.ostechnix.com###menu-header-menu
+www.ostechnix.com##.collapsed.s1.sidebar
+www.ostechnix.com##.group.hu-pad.page-title
+www.ostechnix.com##.no-counter.sharrre-container
+www.out.com##.magazine-subscription-promo-banner
+www.outsideonline.com###linear-article-2413447 > .sticky-parent.article__content > .article__meta
+www.outsideonline.com###notice_dek
+www.outsideonline.com##.article-origin.affiliate-link-disclaimer
+www.outsideonline.com##.article-origin.breadcrumbs
+www.outsideonline.com##.no-print
+www.outsideonline.com##.recirc
+www.outsideonline.com##.site-header > .js-leaderboard-wrap
+www.pcgamer.com###affiliateDisclaimer
+www.pcgamer.com###comment-jump
+www.pcgamer.com###document-footer-content
+www.pcgamer.com###sidebar
+www.pcgamer.com##.author-block
+www.pcgamer.com##.breadcrumb > ol
+www.pcgamer.com##.fancy-box
+www.pcgamer.com##.full.container.trending-bar
+www.pcgamer.com##.future__jwplayer--carousel
+www.pcgamer.com##.jump-to-comments
+www.pcgamer.com##.primary-nav
+www.pcgamer.com##.related-articles-block > div > .box
+www.pcgamer.com##.wrapper
+www.pearson.com###js-cookie-notification
+www.pewresearch.org###secondary
+www.politico.com##.most-read.caste-exclusive.widget > .dari-frame-loaded.dari-frame
+www.politico.eu##.announce-summary
+www.politico.eu##.article-in-this-section
+www.politico.eu##.as-oil-content-overlay
+www.politico.eu##.is-active.reveal-at-extra
+www.politico.eu##.shifty-wrapper
+www.politico.eu##.story-tools
+www.politico.eu##aside.story-supplement
+www.propublica.org##.article-footer
+www.propublica.org##.email-nav
+www.propublica.org##.global-promos
+www.propublica.org##.latest-stories
+www.propublica.org##.masthead > .action-nav
+www.propublica.org##.masthead > .org-nav
+www.propublica.org##.post-article
+www.propublica.org##.secondary-nav
+www.propublica.org##.semi-fixed.story-tools > ul
+www.propublica.org##.topics-list
+www.propublica.org##body > footer
+www.psypost.org###breadcrumbs
+www.psypost.org##.col-md-4.jeg_sticky_sidebar
+www.psypost.org##.jeg_footer_content
+www.psypost.org##.jeg_header_wrapper
+www.psypost.org##.jeg_share_bottom_container
+www.psypost.org##.jeg_share_float_container
+www.quantamagazine.org###comments
+www.quantamagazine.org###newsletter
+www.quantamagazine.org##.disable-parallax.fill-h.relative.block.next-post
+www.quantamagazine.org##.flex-auto.flex.header__icons
+www.quantamagazine.org##.flex-items-center.flex.flex-auto.mt025.h5.post__title__actions
+www.quantamagazine.org##.flex-justify-between.flex-items-start.flex.relative.post__content > .theme__anchors--solid.flex-justify-center.flex.hide.post__sidebar > .post__sidebar__content > .post__sidebar__content__inner
+www.quantamagazine.org##.flex-justify-between.flex-items-start.flex.relative.post__content > aside.flex-justify-center.flex.hide.post__sidebar:nth-of-type(1) > .post__sidebar__content > .post__sidebar__content__inner > .sidebar__tag-wrap.pt05.mt1
+www.quantamagazine.org##.footer
+www.quantamagazine.org##.next-post
+www.quantamagazine.org##.outer--content.pv2.post__category
+www.quantamagazine.org##.relative.flex.header__group.header__main > .fill-v.flex
+www.quantamagazine.org##.uppercase.theme__text-hover.theme__accent.kicker
+www.questechie.com###header-wrapper
+www.questechie.com###HTML91
+www.questechie.com###sidebar
+www.reddit.com##._3RhWPJfjpsEoBw52x0fQp2.trdUvQxqQHHqQKOUBcgnr
+www.redhat.com###node--article--5021 > div > div > .text-center.p-3.my-5.cta--.cta--red-on-black.cta.block--cta.block
+www.redhat.com##.bg-dark.navbar-dark.justify-content-between.navbar-expand-lg.navbar
+www.redhat.com##.block--sharelinks.block
+www.redhat.com##.block.views-element-container
+www.redhat.com##.border-bottom-light-gray.bg-light.text-dark.d-lg-block.d-none.navbar-light.justify-content-between.navbar-expand-lg.navbar
+www.redhat.com##.container > div > .text-center.p-3.my-5.cta--.cta--red-on-black.cta.block--cta.block
+www.redhat.com##.embedded-entity--resources--link
+www.redhat.com##.redhat-cookie-banner
+www.redhat.com##.show.subscribe-sidebar
+www.redhat.com##footer
+www.reuters.com##.ArticleHeader_channel
+www.reuters.com##.BylineBar_border-wrap--no-bios.BylineBar_border-wrap
+www.reuters.com##.Footer_footer
+www.reuters.com##.Footer_social > .Footer_inner
+www.reuters.com##.lower-container
+www.reuters.com##.module.RelatedCoverage_related-coverage-module
+www.reuters.com##.RecircRibbon_container
+www.reuters.com##.RightRail_video-docked.RightRail_container
+www.reuters.com##.TrendingStories_container
+www.reuters.com##.TwoColumnLayout_fluid-left.StandardArticle_content.TwoColumnLayout_container > .TwoColumnLayout_right.TwoColumnLayout_column
+www.reuters.com##[class*="article-header__buttons"]
+www.reuters.com##[class*="newsletter"]
+www.reuters.com##[class*="registration-prompt"]
+www.reuters.com##[class*="RegularArticleLayout__header___"]
+www.reuters.com##[class*="RegularArticleLayout__related___"]
+www.reuters.com##[class*="site-footer"]
+www.reuters.com##[class*="site-header"]
+www.reuters.com##[class*="sticky-rail"]
+www.reuters.com##[class*="story-card"]
+www.reuters.com##[class*="toolbar__link"]
+www.reuters.com##[class*="topic__header"]
+www.reuters.com##footer
+www.rosehosting.com##.grid-parent.tablet-grid-30.grid-30.is-right-sidebar.sidebar.widget-area
+www.rottentomatoes.com###movieListColumn
+www.rottentomatoes.com###newsAndFeatures
+www.rottentomatoes.com###newsSection
+www.rottentomatoes.com###social-tools
+www.rottentomatoes.com###videoPanel
+www.rottentomatoes.com##.js-rtv2-home-spotlight
+www.rottentomatoes.com##.trendingBar
+www.rugknots.com##.share-sticky.article--share
+www.salon.com###nav-right
+www.salon.com###navbarToggler
+www.salon.com###newsletter-form
+www.salon.com###search-form
+www.salon.com###social_total
+www.salon.com###topic_section
+www.salon.com###up-next
+www.salon.com##.comments-button
+www.salon.com##.container
+www.salon.com##.explore_section
+www.salon.com##.footer-ad-unit
+www.salon.com##.right-rail
+www.sapiens.org###mini-homepage
+www.sapiens.org##.container
+www.sapiens.org##.featured-caption
+www.sapiens.org##.kicker-container
+www.sapiens.org##.meta
+www.sapiens.org##blockquote
+www.sciencedaily.com###controls
+www.sciencedaily.com###message_box
+www.sciencedaily.com##.clearfix.right-tabs
+www.sciencedaily.com##.hidden-xs.no-padding-left.col-md-8.col-sm-7
+www.sciencedaily.com##.hidden-xs.no-print.sidebar.less-padding-left.col-sm-4
+www.sciencedaily.com##.motto
+www.sciencedaily.com##.navbar-custom.navbar-static.navbar-default.yamm.navbar
+www.sciencedaily.com##.no-print
+www.sciencedaily.com##.no-print.less-padding-left.col-md-pull-8.col-md-4
+www.sciencedaily.com##.unit1
+www.sciencedaily.com##dd.no-print
+www.sciencedaily.com##div.col-md-12.col-xs-6:nth-of-type(1) > .topics.nav > .nav-header
+www.sciencedaily.com##div.col-md-4.col-sm-8
+www.sciencedaily.com##div.col-md-6
+www.sciencedaily.com##div.related-summary
+www.sciencedaily.com##dt.no-print
+www.sciencedaily.com##h5.clearfix.related-headline
+www.scientificamerican.com##.article-grid__aux
+www.scmp.com###iframe-container
+www.scmp.com##.active.notification.gelocation-alert__notification
+www.scmp.com##.article--first.article.generic-article > .wrapper.article__wrapper > .contents.wrapper__contents > .main.contents__main > .main__right > .row.main__row > .others.row__others
+www.scmp.com##.article--last.article.generic-article
+www.scmp.com##.article-details-type--h3
+www.scmp.com##.article-page__arrow-icon--disabled.article-page__arrow-icon--next.article-page__arrow-icon
+www.scmp.com##.article-page__arrow-icon--disabled.article-page__arrow-icon--prev.article-page__arrow-icon
+www.scmp.com##.content--newsletter.article-details-type--newsletter.generic-article__body
+www.scmp.com##.details__topics.related-topic
+www.scmp.com##.follow.bottom-info__follow
+www.scmp.com##.main-left.main__left
+www.scmp.com##.sections.info__sections
+www.scmp.com##.widget.contents__widget
+www.scmp.com##.wrapper.footer-wrapper
+www.scmp.com##div.mega-menu-tab
+www.scmp.com##div:nth-of-type(16) > .video-wrapper.content--div.article-details-type--div.generic-article__body
+www.scmp.com##div:nth-of-type(4) > .content--h3.article-details-type--h3.generic-article__body
+www.seas.harvard.edu##.header__toggles
+www.seas.harvard.edu##.news__header--inner.grid-x
+www.seas.harvard.edu##.news__mailing-list-signup
+www.seas.harvard.edu##.news__related-news-wrapper
+www.seas.harvard.edu##.news__sharing
+www.seas.harvard.edu##[href="#press"]
+www.sfgate.com###site-nav-spacer
+www.sfgate.com###siteNav
+www.sfgate.com###subHead
+www.sfgate.com###subHead-spacer
+www.sfgate.com##.article-share > .social-links > .left
+www.sfgate.com##.article-sidebar
+www.sfgate.com##.twelve-12.twelve-9.article-breaking-now
+www.simonandschuster.com###main-content > div.section > .columns > .is-one-third.column
+www.slideshare.net###side-panel
+www.smithsonianmag.com###Scroll-Nav
+www.smithsonianmag.com##.amazon-associated-product
+www.smithsonianmag.com##.article-special-wrap
+www.smithsonianmag.com##.articleRight
+www.smithsonianmag.com##.associated-container
+www.smithsonianmag.com##.btn-comments
+www.smithsonianmag.com##.category-label
+www.smithsonianmag.com##.embedly-retail
+www.smithsonianmag.com##.headerBar
+www.smithsonianmag.com##.last.related-list.associated
+www.smithsonianmag.com##.nav-subscribe-box
+www.smithsonianmag.com##.nav-wrapper-bg
+www.smithsonianmag.com##.newsletter-signup-article-wrapper
+www.smithsonianmag.com##.nextprev-nav
+www.smithsonianmag.com##.recommended-videos
+www.smithsonianmag.com##.scroll-nav-social
+www.smithsonianmag.com##.sidebar
+www.smithsonianmag.com##.signup-wrapper
+www.smithsonianmag.com##.social-nav
+www.smithsonianmag.com##.sub-header-wrapper
+www.smithsonianmag.com##.tag-list
+www.smithsonianmag.com##footer
+www.speedtest.net##.footer
+www.spiegel.de##.pointer-events-auto.bg-white.sticky > .relative.lg\:max-w-lg.md\:max-w-md.sm\:max-w-sm.mx-auto
+www.spiegel.de##.sm\:pb-32.md\:pb-32.lg\:pb-40.sm\:pt-24.md\:py-32.lg\:pt-40.bg-shade-darkest.lg\:rounded.shadow > .sm\:overflow-hidden
+www.spiegel.de##.w-full.sm\:pb-32
+www.startribune.com##.article-share
+www.startribune.com##.l-article-downpage-left
+www.startribune.com##.l-article-rail
+www.startribune.com##.l-zone-3-bucket
+www.startribune.com##.nav-shortcuts-inner
+www.startribune.com##.recirc
+www.statnews.com##.category-title-wrapper
+www.statnews.com##.comments-section
+www.statnews.com##.content-sidebar.sidebar
+www.statnews.com##.footer
+www.statnews.com##.header-main
+www.statnews.com##.post-meta > .reprints
+www.statnews.com##.post-widgets
+www.statnews.com##.recirculation-section.content.section
+www.statnews.com##.tags
+www.sublimetext.com##.twitter_follow
+www.sublimetext.com##footer
+www.tasteofcinema.com##.inner
+www.techhive.com###banner
+www.techhive.com###drr-top-ad
+www.techhive.com###footer
+www.techhive.com###page-top
+www.techhive.com###share-tool
+www.techhive.com##.amzn-custom-header
+www.techhive.com##.horiz.breadcrumbs
+www.techhive.com##.tags.apart-alt
+www.techjunkie.com##.off-canvas-wrap > .inner-wrap > .main-section > .new-post.article.row > .new-post__right-sidebar.best-list__right-sidebar.columns
+www.technologyreview.com###story
+www.technologyreview.com###story > div:nth-of-type(1) > .mediaContainer.jsx-1546557212
+www.technologyreview.com##.eyebrow
+www.technologyreview.com##.feedBody
+www.technologyreview.com##.footerShare
+www.technologyreview.com##.navItems
+www.technologyreview.com##.optanon-alert-box-bg
+www.technologyreview.com##.related
+www.technologyreview.com##.sidebar
+www.technologyreview.com##.sidebarBottom
+www.technologyreview.com##.signup-wrapper
+www.technologyreview.com##[class*="columnArea--fullStory__sidebar"]
+www.techradar.com###affiliateDisclaimer
+www.techradar.com###document-footer-content
+www.techradar.com###main > .hawk-processed
+www.techradar.com###sidebar
+www.techradar.com##.active.popular-list
+www.techradar.com##.breadcrumb > ol
+www.techradar.com##.full.block-link
+www.techradar.com##.primary-nav
+www.techradar.com##.trending-wrapper
+www.techrepublic.com###mainNav
+www.techrepublic.com##.article-single > .article-share-bar-container
+www.techrepublic.com##.col-12 > .article-share-bar-container
+www.techrepublic.com##.copyright
+www.techrepublic.com##.footer-nav
+www.techrepublic.com##.horizontal.editors-picks-listing
+www.techrepublic.com##.pull-right.pinbox.relatedContent
+www.techrepublic.com##.related-topics
+www.techrepublic.com##.show-comments-container.add-comment
+www.techrepublic.com##.vertical.editors-picks-listing
+www.telegraph.co.uk###navigation
+www.telegraph.co.uk##.article__lead-asset.u-full-bleed--reset-sm.u-full-bleed.grid-col-12.grid-col > .section.video-player > .video-player__source
+www.telegraph.co.uk##.article__related.row
+www.telegraph.co.uk##.article__sidebar
+www.telegraph.co.uk##.article__socials
+www.telegraph.co.uk##.is-sticky
+www.telegraph.co.uk##div.section.htmlEmbed
+www.the-tls.co.uk##.is-10-tablet.is-4-desktop.column.tls-single-article__sidebar
+www.the-tls.co.uk##.is-centered.is-multiline.is-gapless.columns.false.tls-subscriptions-banner
+www.the-tls.co.uk##.optanon-alert-box-wrapper
+www.theamericanconservative.com##.c-breadcrumbs
+www.theamericanconservative.com##.c-card-author__icon-wrapper
+www.theamericanconservative.com##.c-card-author__info-wrapper > p
+www.theamericanconservative.com##.c-comments.c-single-blog__comments
+www.theamericanconservative.com##.c-postbox.l-sidebar__postbox
+www.theamericanconservative.com##.c-taxonomy.c-single-blog__taxonomy
+www.theamericanconservative.com##.default.ajax-load-more-wrap
+www.theamericanconservative.com##.js-header.l-header
+www.theamericanconservative.com##.l-footer
+www.theamericanconservative.com##.l-header__nav-wrapper
+www.theamericanconservative.com##.wow.c-title--small-uppercase.c-title.c-title__title
+www.theatlantic.com###article-video
+www.theatlantic.com###most-popular
+www.theatlantic.com###rubric
+www.theatlantic.com###share-social
+www.theatlantic.com###site-footer
+www.theatlantic.com##.c-article-writer__social
+www.theatlantic.com##.c-leaflets
+www.theatlantic.com##.c-nav__container
+www.theatlantic.com##.c-non-metered-nudge
+www.theatlantic.com##.c-nudge-expanded__container.c-nudge__container
+www.theatlantic.com##.c-nudge__container
+www.theatlantic.com##.c-recirc-content
+www.theatlantic.com##.c-share-social__list
+www.theatlantic.com##.callout
+www.theatlantic.com##.component-social
+www.theatlantic.com##.Gate_container__mdm2S
+www.theatlantic.com##.Gate_root__5UU_Y
+www.theatlantic.com##.Gate_shadow__FSKvL
+www.theatlantic.com##.l-article-recirc
+www.theatlantic.com##.l-article-recirc__rivers
+www.theatlantic.com##.l-rail
+www.theatlantic.com##.qc-cmp-cleanslate
+www.theatlantic.com##.SubOnlyPromo_root__ZC4ri
+www.theatlantic.com##[class*="ArticleBentoRecirc"]
+www.theatlantic.com##[class*="ArticleBooksModule_book"]
+www.theatlantic.com##[class*="ArticleBooksModule_inset"]
+www.theatlantic.com##[class*="ArticleMagazinePromo"]
+www.theatlantic.com##[class*="ArticleMostPopular_root__"]
+www.theatlantic.com##[class*="ArticleRelatedContentModule_notchedModule"]
+www.theatlantic.com##[class*="ArticleRubric"]
+www.theatlantic.com##[class*="Footer"]
+www.theatlantic.com##[class*="NonMeteredNudge"]
+www.theatlantic.com##[class*="Nudge"]
+www.theatlantic.com##[class*="Rail"]
+www.theatlantic.com##[class*="shareButton"]
+www.theatlantic.com##[class*="SubOnlyPromo"]
+www.theatlantic.com##[id*="injected-recirculation"]
+www.theglobeandmail.com###secondary-content-area
+www.theglobeandmail.com###subscription-pencil-area
+www.theglobeandmail.com##.arc-f-global-footer-nav
+www.theglobeandmail.com##.c-article-meta__actions
+www.theglobeandmail.com##.c-related-articles--thumbnail.c-related-articles.js-article-list-bookmark-container
+www.theglobeandmail.com##.c-site-header--article--revealed.c-site-header--article.c-site-header
+www.theglobeandmail.com##.pb-c-article-related-content
+www.theguardian.com###bannerandheader
+www.theguardian.com###more-on-this-story
+www.theguardian.com##.byline-img
+www.theguardian.com##.content-footer--pillar-opinion.content-footer
+www.theguardian.com##.content__label__link
+www.theguardian.com##.content__labels--not-immersive.content__labels
+www.theguardian.com##.contributions__epic
+www.theguardian.com##.css-rqujmn
+www.theguardian.com##.element-rich-link--upgraded.element--thumbnail.element-rich-link--tag.element-rich-link.element
+www.theguardian.com##.hide-until-mobile.new-header__cta-bar
+www.theguardian.com##.js-most-popular-footer.fc-container--has-toggle.fc-container > .fc-container__inner
+www.theguardian.com##.js-secondary-column.content__secondary-column
+www.theguardian.com##.meta__extras
+www.theguardian.com##.pillar-scheme--Opinion.new-header
+www.theguardian.com##.rich-link--pillar-news.tone-news--item.rich-link > .rich-link__container > .u-faux-block-link__overlay.rich-link__link
+www.theguardian.com##.site-message--engagement-banner.site-message--useoy2019.js-engagement-banner-site-message
+www.theguardian.com##.site-message--first-pv-consent.js-first-pv-consent-site-message
+www.theguardian.com##.site-message--permanent.site-message--first-pv-consent.site-message--banner.js-site-message.site-message
+www.theguardian.com##.submeta
+www.theguardian.com##.subnav--interview.subnav.js-expand-subnav > .gs-container
+www.theguardian.com##.u-cf.l-footer
+www.theguardian.com##aside.element-rich-link--upgraded.element--thumbnail.element-rich-link.element:nth-of-type(4)
+www.theguardian.com##gu-island
+www.theguardian.com##header
+www.theguardian.com##nav.dcr-il3bi2
+www.theinformation.com##.in-article-cta > .bordered.p3.card
+www.themoviedb.org###popular_scroller
+www.themoviedb.org##.community.bg_image.inner_content
+www.themoviedb.org##.leaderboard.inner_content
+www.themoviedb.org##.single_column
+www.themoviedb.org##section.no_pad.inner_content
+www.thepolyglotdeveloper.com##.content-share
+www.thepolyglotdeveloper.com##.widget
+www.thepolyglotdeveloper.com##div.widget-wrapper.row:nth-of-type(4) > .col-md-12 > .widget
+www.theregister.co.uk###ad-hawk
+www.theregister.co.uk###adtoniq-msgr-bar
+www.theregister.co.uk###article_body_btm
+www.theregister.co.uk###foot_btm
+www.theregister.co.uk###footer
+www.theregister.co.uk###read_more_on
+www.theregister.co.uk###right-col
+www.theregister.co.uk###story-bot-col
+www.theregister.co.uk###story_section_break
+www.theregister.co.uk###tags > ul
+www.theregister.co.uk###whitepapers
+www.theregister.co.uk##.comments_share
+www.theregister.co.uk##.dcl.alt_colour.bot_article.social_btns
+www.theregister.co.uk##.promo_article
+www.theregister.co.uk##.stories
+www.theregister.com###ad-hawk
+www.theregister.com###article_body_btm
+www.theregister.com###crumb_trail > .dcl
+www.theregister.com###foot_btm
+www.theregister.com###footer
+www.theregister.com###right-col
+www.theregister.com###story-bot-col
+www.theregister.com###story_section_break
+www.theregister.com###tags > ul
+www.thestar.com###conversations
+www.thestar.com###footer
+www.thestar.com##.aggregation
+www.thestar.com##.article-related-inline
+www.thestar.com##.article-trust-bar
+www.thestar.com##.c-article-body__rightrail
+www.thestar.com##.c-article-header__conversations.conversation-indicator-container
+www.thestar.com##.c-article-labels-container
+www.thestar.com##.cta-container
+www.thestar.com##.leaderboard-ad-component.alpha__global
+www.thestar.com##.mainart-landscape.c-article-header__mainart.mainart-container
+www.thestar.com##.o-hero-header-container
+www.thestar.com##.o-main-menu--loaded.o-main-menu
+www.thestar.com##.o-main-menu--no-submenu.o-main-menu
+www.thestar.com##.o-sub-menu--loaded.o-sub-menu
+www.thestar.com##.o-tophat
+www.thestar.com##.o-tophat-container
+www.theverge.com##.adblock-whitelist-messaging__article-wrapper
+www.theverge.com##.adblock-whitelist-messaging__wrapper
+www.theverge.com##.c-comments
+www.theverge.com##.c-entry-group-labels
+www.theverge.com##.c-entry-group-labels--article.c-entry-group-labels
+www.theverge.com##.c-entry-group-labels--feature.c-entry-group-labels
+www.theverge.com##.c-entry-sidebar
+www.theverge.com##.c-float-right
+www.theverge.com##.c-footer
+www.theverge.com##.c-global-header
+www.theverge.com##.c-global-header__actions
+www.theverge.com##.c-global-header__links
+www.theverge.com##.c-global-header__social
+www.theverge.com##.c-nextclick
+www.theverge.com##.c-nextclick > .c-related-list
+www.theverge.com##.c-read-more
+www.theverge.com##.c-recirc-module
+www.theverge.com##.c-related-list
+www.theverge.com##.c-social-buttons--popover.c-social-buttons
+www.theverge.com##.l-col__main > .c-related-list
+www.theverge.com##.l-col__sidebar
+www.theverge.com##.l-header
+www.theverge.com##.main-social
+www.theverge.com##.main-social.c-social-buttons--popover.c-social-buttons
+www.theverge.com##.p-comment-notification
+www.theverge.com##.tab-bar-fixed.c-tab-bar
+www.theverge.com##[class*="adblock"]
+www.theverge.com##div.l-segment.l-sidebar-fixed:nth-of-type(4)
+www.thewindowsclub.com##.sidebar
+www.thoughtco.com###breadcrumbs-list_2-0
+www.thoughtco.com###breadcrumbs_1-0
+www.thoughtco.com###footer_1-0
+www.thoughtco.com###header_1-0
+www.thoughtco.com###masonry-list-section_1-0
+www.thoughtco.com###mntl-leaderboard-spacer_1-0
+www.thoughtco.com###prefooter_1-0
+www.thoughtco.com###social-share-block_1-0
+www.thoughtco.com##.post-header.loc
+www.tomsguide.com###affiliateDisclaimer
+www.tomsguide.com###expanding-articles
+www.tomsguide.com###sidebar
+www.tomsguide.com##.future__jwplayer--carousel
+www.tomsguide.com##.read-more-container
+www.tomsguide.com##.trending-wrapper
+www.tomshardware.com###affiliateDisclaimer
+www.tomshardware.com###document-footer
+www.tomshardware.com###sidebar
+www.tomshardware.com##.breadcrumb
+www.tomshardware.com##.burgerbar-small.full.container
+www.tomshardware.com##.content-wrapper
+www.tomshardware.com##.full.container.trending-bar
+www.tomshardware.com##.less-space.box.socialite-widget
+www.tomshardware.com##.primary-nav
+www.tomshardware.com##.read-more-container
+www.tomshardware.com##.sticky-player-background
+www.tomshardware.com##.wrapper
+www.toptenz.net###main-head
+www.toptenz.net##.has-search.nav-light.nav-full.cf.navigation
+www.toptenz.net##.sidebar.col-4
+www.torrentday.com###bannerHolder
+www.torrentday.com###pageWrapper > div
+www.tutorialspoint.com###footer
+www.tutorialspoint.com###header
+www.tutorialspoint.com###logo-menu > .mui-container
+www.tutorialspoint.com##.tutorial-content.mui-col-md-6 > .chapters.toc
+www.tutorialspoint.com##.tutorial-toc.mui-col-md-3
+www.ubuntupit.com##.td-header-desktop-wrap
+www.ubuntupit.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_93.vc_column > .wpb_wrapper
+www.ubuntupit.com##.tdb-breadcrumbs.td_block_template_9.td-pb-border-top.tdi_53.tdb_breadcrumbs.td_block_wrap > .td-fix-index.tdb-block-inner
+www.universalhub.com###breadcrumb
+www.universalhub.com###header
+www.universalhub.com###navigation
+www.universalhub.com###topbar
+www.universalhub.com##.region-topbar
+www.universalhub.com##.sidebar
+www.unixmen.com###post-26869 > footer
+www.unixmen.com##.colum-width.td-main-sidebar.td-pb-span4
+www.unixmen.com##.td-container-wrap.td-footer-wrapper
+www.unixmen.com##.td-container-wrap.td-sub-footer-container
+www.unixmen.com##.td-crumb-container
+www.unixmen.com##.td-header-header.td-header-row.td-container
+www.unixmen.com##.td-header-style-3.td-header-wrap
+www.ups.com##.__tealiumPrivacyBackdrop
+www.ups.com##.privacy_prompt_middle
+www.usatoday.com##.gnt_ar_b_al
+www.usatoday.com##.gnt_ar_lbl
+www.usatoday.com##.gnt_ar_pb
+www.usatoday.com##.gnt_em_cp.gnt_em
+www.usatoday.com##.gnt_ft
+www.usatoday.com##.gnt_n_mn
+www.usatoday.com##.gnt_n_nc__hbn.gnt_n_fl
+www.usatoday.com##.gnt_rr
+www.usatoday.com##.gnt_xbr
+www.usatoday.com##a.gnt_cw_sl
+www.usatoday.com##div.gnt_ss
+www.vanityfair.com##.site-navigation
+www.vice.com##.article-heading-v2__social-link:nth-of-type(even)
+www.vice.com##.article-heading-v2__social-link:nth-of-type(odd)
+www.vice.com##.article__header__rubric
+www.vice.com##.article__socialize
+www.vice.com##.injected-newsletter
+www.vice.com##.navbar-wrapper
+www.vice.com##.recirc-footer
+www.vice.com##.related-article-grid-container
+www.vice.com##.related__sidebar.sidebar
+www.vice.com##.short-form-right-rail__right-rail
+www.vice.com##.short-form__body__right-rail
+www.vice.com##.titlebar__icons__social
+www.vice.com##div.article-wrapper:nth-of-type(3)
+www.vice.com##div.article-wrapper:nth-of-type(even)
+www.vice.com##span > div > .observer
+www.visualcapitalist.com###mvp-foot-wrap > .relative.left
+www.visualcapitalist.com###mvp-main-head-wrap
+www.visualcapitalist.com###mvp-main-nav-bot
+www.visualcapitalist.com###mvp-post-more-wrap > .mvp-widget-home-title
+www.visualcapitalist.com##.mvp-cont-read-wrap
+www.visualcapitalist.com##.mvp-post-add-story
+www.visualcapitalist.com##.mvp-post-cat
+www.visualcapitalist.com##.mvp-post-more-list
+www.visualcapitalist.com##.mvp-post-tags
+www.vox.com###privacy-consent
+www.vox.com##.adblock-whitelist-messaging__article-wrapper
+www.vox.com##.c-nextclick
+www.vox.com##.has-minimal-nav.l-header
+www.vox.com##.is-minimal.c-tab-bar
+www.vox.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
+www.vox.com##.l-col__main > .c-related-list
+www.vox.com##div.l-segment.l-sidebar-fixed:nth-of-type(5)
+www.washingtonpost.com###comments-wrapper
+www.washingtonpost.com###link-box
+www.washingtonpost.com##.bb
+www.washingtonpost.com##.bh.mb-lg-mod.relative
+www.washingtonpost.com##.bh.mb-lg-mod.relative.hide-for-print.b
+www.washingtonpost.com##.mb-lg-mod.pad-left-sm
+www.washingtonpost.com##.mt-lg-ns.mt-md
+www.washingtonpost.com##.overflow-hidden
+www.washingtonpost.com##.pb-xl.w-100.hide-for-print
+www.washingtonpost.com##.pg-article-bottom
+www.washingtonpost.com##.pg-article-bottom--related.pg-mostRead
+www.washingtonpost.com##.pg-border--bottom.pg-chart
+www.washingtonpost.com##.pg-skinny.pg-share-comment-wrapper
+www.washingtonpost.com##.pr-lg-lg.grid-item--cols-lg-8.mt-md-l.mt-xxs.mb-xxl-ns.br-l.b-l.grid-item--cols-md-12.grid-item--cols-sm-12.grid-item > div.mb-lg-mod.pb-lgmod:nth-of-type(5)
+www.washingtonpost.com##.pr-lg-lg.grid-item--cols-lg-8.mt-md-l.mt-xxs.mb-xxl-ns.br-l.b-l.grid-item--cols-md-12.grid-item--cols-sm-12.grid-item > div:nth-of-type(7)
+www.washingtonpost.com##.right-rail.flex-column
+www.washingtonpost.com##.right-rail.flex-column.flex.hide-for-print.grid-item--cols-lg-4.mt-md-l.grid-item--cols-md-12.grid-item--cols-sm-12.grid-item
+www.washingtonpost.com##.top-0.left-0.absolute.mt-lg
+www.washingtonpost.com##.w-100.fixed.justify-center.items-center.hide-for-print.flex.bg-black.header-nav
+www.washingtonpost.com##.w-100.left-0.fixed
+www.washingtonpost.com##.white.bg-blue.hide-for-print
+www.washingtonpost.com##div.db-ns
+www.wcvb.com###_ampSideBar
+www.wcvb.com##.ad-container
+www.wcvb.com##.article-content--header > .article-headline > .horizontal.share-content.article-social-branding > .amp.article-social.js-share-container.share-content
+www.wcvb.com##.article-sidelist-wrapper
+www.wcvb.com##.consentPopup
+www.wcvb.com##.cream.article-content--footer
+www.wcvb.com##.footer
+www.wcvb.com##.header
+www.wgbh.org##.ArticlePage-aside
+www.wgbh.org##.ArticlePage-below
+www.wgbh.org##.ArticlePage-pageTag
+www.wgbh.org##.ArticlePage-pageTag-rule
+www.wgbh.org##.ArticlePage-sectionTag
+www.wgbh.org##.ArticlePage-tags
+www.wgbh.org##.Footer
+www.wikihow.com###sidebar
+www.wired.co.uk###more-great-stories-from-wired
+www.wired.co.uk##.ad--article-header.ad--article.ad__main > .ad__block
+www.wired.co.uk##.bb-card
+www.wired.co.uk##.has-no-scroll.has-navigation.js-c-top-stories.c-top-stories
+www.wired.co.uk##.js-c-top-stories-lazy-load.c-top-stories-lazy-load
+www.wired.co.uk##.optanon-alert-box-wrapper
+www.wired.co.uk##article.a-main:nth-of-type(1) > .stick-group.a-body > .a-body__wrapper > .has-bbcode.a-body__content > .js-bb-newsletter.bb-newsletter
+www.wired.co.uk##article.a-main:nth-of-type(1) > .stick-group.a-body > .a-body__wrapper > .has-bbcode.a-body__content > p.bb-p:nth-of-type(even) > .bb-strong
+www.wired.co.uk##article.a-main:nth-of-type(1) > .stick-group.a-body > .a-body__wrapper > .has-bbcode.a-body__content > p.bb-p:nth-of-type(odd) > .bb-strong
+www.wired.co.uk##article.a-main:nth-of-type(even)
+www.wired.co.uk##aside.a-sidebar-content
+www.wired.co.uk##aside.a-sidebar-content:nth-of-type(2)
+www.wired.co.uk##section.c-card-section--a-recommended.c-card-section:nth-of-type(even)
+www.wired.co.uk##section.c-card-section--a-recommended.c-card-section:nth-of-type(odd)
+www.wired.com###footer-social
+www.wired.com###prefooter
+www.wired.com###sharing
+www.wired.com###sidebar
+www.wired.com##.ad-stickyhero
+www.wired.com##.ad__slot--post_nav
+www.wired.com##.callout--has-top-border.callout--inset-left.callout
+www.wired.com##.content-footer
+www.wired.com##.content-footer-related-video
+www.wired.com##.grid-layout__aside.grid--item
+www.wired.com##.grid-layout__content.article__body.body__container.body.grid--item > ul
+www.wired.com##.grid-layout__content.with-bottom-border.with-top-border.content-footer__tag-cloud.grid--item.tag-cloud
+www.wired.com##.page__site-footer.row
+www.wired.com##.persistent-top
+www.wired.com##.rubric-vertical-align.content-header__rubric.rubric
+www.wired.com##[class*="ArticlePageContentFooter"]
+www.wired.com##[class*="BasePageSiteFooter"]
+www.wired.com##[class*="ConsentBanner"]
+www.wired.com##[class*="RubricLink"]
+www.wired.com##[class*="SummaryCollection"]
+www.wired.com##div.narrow.grid-layout--adrail.grid-items-2.grid-margins.grid:nth-of-type(1) > .grid-layout__aside.grid--item
+www.withings.com##.color-white.cookie_consent_withings
+www.wlox.com###app-bar
+www.wlox.com###sticky-nav
+www.wlox.com##.padded-xs.padded-bottom.padded-top.padded.flex-container-row.list-unstyled
+www.wlox.com##.right-rail
+www.wsj.com###full-header
+www.wsj.com###right-rail
+www.wsj.com###share-target
+www.wsj.com###share_tools
+www.wsj.com###wsj-footer
+www.wsj.com##.coupon-container
+www.wsj.com##.WSJTheme--market-data-hC5Q8XMG_GJnAtA-fH8fF
+www.wsj.com##[class*="Breadcrumb"]
+www.wsj.com##[class*="HatWrapper"]
+www.wsj.com##[class*="List"]
+www.wsj.com##[class*="ShareToolsContainer"]
+www.wsj.com##[class*="StyledHat"]
+www.xda-developers.com##.sidebar_area
+www.youtube.com###consent-bump
+www.youtube.com###content > .ytd-rich-item-renderer.style-scope
+www.youtube.com###related
+www.youtube.com###secondary
+www.youtube.com##.ytd-comments
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+www.zdnet.com###newsletter-widget-55
+www.zdnet.com###postComments
+www.zdnet.com###secondary
+www.zdnet.com##.breakingNews
+www.zdnet.com##.footer-main
+www.zdnet.com##.iframe.shortcode
+www.zdnet.com##.keepUp
+www.zdnet.com##.primaryNav
+www.zdnet.com##.related-topics
+www.zdnet.com##.relatedContent
+www.zdnet.com##.searchLarge
+www.zdnet.com##.shortcodeGalleryWrapper
+www.zdnet.com##.sticky-wrapper
+www.zdnet.com##div.share-bar-wrapper
+www.zdnet.com##div.share-bar-wrapper:nth-of-type(3) > .social-links
+www.zdnet.com##div:nth-of-type(3) > .container.topContent > .specialFeatureBanner
+www.zdnet.com##div:nth-of-type(5) > div > .container.topContent
+www.zdnet.com##figure.shortcode-image.image-original.image > .aspect-set.img
+www.zdnet.com##section.related-stories
+xkcd.com###bottom
+xkcd.com###topContainer
+||audm.herokuapp.com/player-embed$subdocument
+||blog.the-ebook-reader.com/wp-content/themes/headlines/images/bevel-footer-widgets.png$image
+||blog.the-ebook-reader.com/wp-content/themes/headlines/images/bg-box.png$image
+||cdn.concert.io/lib/adblock/verge.html$subdocument
+||cdn.myanonamouse.net/banner/display.php$image
+||cdn9.anyclip.com$image
+||cleantechnica.com/files/2013/07/CleanTechnica-YouTube-Channel.jpg$image
+||cleantechnica.com/files/2019/02/CleanTech-Talk-Banner-e1551388969371.jpg$image
+||consent.google.com/$subdocument
+||directory.designnews.com/img/dn_top_gradient.gif$image
+||disqus.com/recommendations/$subdocument
+||funkyimg.com/i/31QPW.gif$image
+||galleries.collider.com/wp-content/uploads/2019/07/scream-queens-grande*.jpg$image
+||images.ctfassets.net$image
+||images.ctfassets.net/zkiriguzcbv6/4*/Bank-Test-BHP-Hero0*-Desktop.jpg?q=$image
+||krebsonsecurity.com/b-akamai/29.jpg$image
+||obliviousinvestor.com/wp-content/uploads/2018/05/featuredin.jpg$image
+||prod-native.actionbutton.co/*$subdocument
+||static.businessinsider.com/image/5cf6b11111e205471c5718a4$image
+||static.businessinsider.com/image/5d3718e78d66427858223be4$image
+||thepointmag.com/wp-content/themes/thepoint/assets/images/logo.svg$image
+||thequintessentialmind.com/wp-content/uploads/2016/02/power-and-influence-books-1-*0.jpg$image
+||www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/repeating_meshed_grid.png$image
+||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
+||www.salon.com/design/images/salon_s.png$image
+||www.torrentday.com/pic/du/2.gif$image
+||www.wired.co.uk/static/img/adblock-DS.png$image
+||www.wired.co.uk/static/img/adblock-MPU.png$image
+||www.xmodulo.com/img/instagram.jpg$image
+
+! 2022-07-27 https://www.theatlantic.com
+www.theatlantic.com##[class*="ArticleBio_social"]
+
+! 2022-08-05 https://webdevtrick.com
+webdevtrick.com##.td_block_related_posts
+webdevtrick.com##.comments
+webdevtrick.com##.td-container-wrap.td-footer-outer-wrapper
+webdevtrick.com##.td-ss-main-content > footer
+webdevtrick.com##.td-category
+webdevtrick.com##.td-crumb-container
+webdevtrick.com##.td-post-featured-image
+webdevtrick.com##.td-post-views-wrap
+webdevtrick.com##.td-container-wrap.td-header-logo-wrap
+webdevtrick.com##.td-header-menu-wrap
+
+! 2022-08-10 https://www.commonwealmagazine.org
+www.commonwealmagazine.org##.view-articles.view
+www.commonwealmagazine.org###header
+www.commonwealmagazine.org##.field-type-taxonomy-term-reference
+www.commonwealmagazine.org##.field-name-social_media.field
+www.commonwealmagazine.org###postscript
+www.commonwealmagazine.org###footer
+www.commonwealmagazine.org###closure
+www.commonwealmagazine.org##.flippy
+www.commonwealmagazine.org##.field-name-comments_blurb.field
+
+! 2022-08-10 https://reason.com
+reason.com##.logo
+reason.com###primary-nav
+reason.com##.logo-header
+reason.com##.content-info
+reason.com##.tag-new-york-city.tag-new-york.tag-first-amendment.tag-federal-courts.tag-courts.category-police-brutality.category-police.category-jury-nullification.category-juries.category-free-speech.category-criminal-justice.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-8198216.rcom-standard-article > footer
+
+! 2022-08-10 https://alternativeto.net
+alternativeto.net##[class*="HeaderLinks_header"]
+alternativeto.net##[class*="site-footer"]
+
+! 2022-08-17 https://www.atlasobscura.com
+www.atlasobscura.com##.is-slider-hidden-m.js-nav-content.nav-content
+
+! 2022-08-17 https://fs.blog
+fs.blog##.site-header
+fs.blog##.entry-meta-before-content
+fs.blog##.site-footer
+fs.blog##.pagination-next
+
+! 2022-08-17 https://bigthink.com
+bigthink.com###page-header
+bigthink.com##.bt-block__inner
+bigthink.com##.sm\:block.mb-8.hidden
+bigthink.com##.article-modules.md\:mt-5.mt-3
+bigthink.com##.bigthink-grid
+bigthink.com##.container-padding.max-w-screen-2xl.overflow-x-hidden
+
+! 2022-08-17 https://www.reuters.com
+www.reuters.com##[class*="article-header__tags"]
+www.reuters.com##[class*="article-header__read"]
+www.reuters.com##[class*="__context_widget__"]
+
+! 2022-08-18 https://www.makeuseof.com
+www.makeuseof.com##.next-btn.sentinel-article-nextArticle
+www.makeuseof.com##.article-tags
+www.makeuseof.com##.w-article-related
+www.makeuseof.com##.w-footer
+www.makeuseof.com###w-article-author-bio-expand > .section-sub-title
+
+! 2022-08-26 https://www.omgubuntu.co.uk
+www.omgubuntu.co.uk##.breadcrumbs
+www.omgubuntu.co.uk##.post-links
+
+! 2022-08-28 https://londonist.com
+londonist.com###side-bar
+londonist.com##.related-links
+londonist.com##footer
+londonist.com##.header
+
+! 2022-08-29 https://technewsidea.com
+technewsidea.com###secondary
+technewsidea.com##.featured-image
+technewsidea.com##.clearfix.article-content > .above-entry-meta
+technewsidea.com##.clearfix.main-navigation
+technewsidea.com##.clearfix.site-header
+technewsidea.com##.tag-links
+
+! 2022-09-01 https://www.cnn.com
+www.cnn.com##[class*="homepage-injection-zone"]
+www.cnn.com###header-nav-container
+
+! 2022-09-03 https://blog.prepscholar.com
+blog.prepscholar.com##.blog-sidebar.widget-type-cell.widget-span.span4
+
+! 2022-09-08 https://datagy.io
+datagy.io##.blog-sidebar
+
+! 2022-09-14 https://think.unblog.ch
+think.unblog.ch##.widget-area.content-sidebar
+think.unblog.ch##.site-header
+think.unblog.ch##.post-thumbnail
+think.unblog.ch###secondary
+think.unblog.ch###site-header
+think.unblog.ch##.cat-links
+think.unblog.ch##.comments-link
+
+! 2022-09-19 https://linoxide.com
+linoxide.com##.is-right-sidebar.sidebar.widget-area
+
+! 2022-09-22 https://www.wsj.com
+www.wsj.com##[class*="FooterWrapper"]
+www.wsj.com##[class*="Placeholder"]
+www.wsj.com##[class*="-SubHed"]
+www.wsj.com##[class*="Ticker"]
+www.wsj.com##[class*="Nav"]
+www.wsj.com##[class*="Search"]
+
+! 2022-09-26 https://medium.com
+medium.com##.dx.da.o.qf
+medium.com##.ht.hc.o.si
+medium.com##.c.ao.o.uf.ue.rp.dz.ud
+medium.com##.l.ro.qf
+medium.com##.aq.db.l
+
+! 2022-09-26 https://www.theregister.com
+www.theregister.com##.comments_wrap
+www.theregister.com##.cat_header
+www.theregister.com###masthead
+www.theregister.com##.tf-v1-widget
+www.theregister.com##.desktop_only.right_col > .similar_topics
+www.theregister.com##.main_content.right_col
+www.theregister.com##.main_content.centre_col
+
+! 2022-10-05 https://www.theatlantic.com
+www.theatlantic.com##[class*="Leaderboard_placeholder"]
+
+! 2022-10-05 https://www.bbc.com
+www.bbc.com##[class*="Promo"]
+www.bbc.com##aside
+www.bbc.com##[class*="ProductNavigationContainer"]
+www.bbc.com##[class*="ChameleonGlobalNavigation"]
+www.bbc.com##[class*="LinksComponentWrapper"]
+www.bbc.com##[class*="StyledTagContainer"]
+www.bbc.com##[class*="FooterSection"]
+
+! 2022-10-05 https://wired.me
+wired.me##.break--explore
+wired.me##.post--after
+wired.me##.site-head
+
+! 2022-10-05 https://www.bloomberg.com
+www.bloomberg.com##[class*="video-player"]
+www.bloomberg.com##.lede-video
+www.bloomberg.com##[class*="brand"]
+www.bloomberg.com##.paywall.inline-newsletter-bottom
+
+! 2022-10-05 https://reason.com
+reason.com##.next-post-link
+reason.com##.the-tags
+reason.com###comments
+
+! 2022-10-05 https://www.science.org
+www.science.org##.navbar
+www.science.org##.main-header
+www.science.org##.breadcrumbs
+www.science.org##.news-article__hero__top-meta
+www.science.org##.figure__wrapper
+www.science.org##.news-article-content-aside
+www.science.org##.news-article-content-footer
+www.science.org##.footer
+
+! 2022-10-05 https://www.cnbc.com
+www.cnbc.com##.RelatedQuotes-cfaButtonContainer
+www.cnbc.com###RegularArticle-RelatedQuotes
+www.cnbc.com##.InlineVideo-wrapper
+www.cnbc.com##.WatchLiveRightRail-container
+www.cnbc.com###GlobalNavigation-Persistent
+
+! 2022-10-05 https://news.mit.edu
+news.mit.edu##.news-article--press-inquiries
+news.mit.edu##.news-article--content--side-column
+news.mit.edu##.news-article--topics
+news.mit.edu##.news-article--archives
+news.mit.edu##.news-article--recent-news.page--section
+news.mit.edu##.site-footer
+news.mit.edu##.tle-footer
+news.mit.edu##.tle-header
+news.mit.edu##.site-header
+
+! 2023-09-07 https://www.howtogeek.com
+www.howtogeek.com##.sidebar
+
+! 2023-09-07 https://linuxhandbook.com
+linuxhandbook.com##.sidebar
+linuxhandbook.com##.header
+linuxhandbook.com##.post-feed.row
+linuxhandbook.com##.footer
+
+! 2023-09-08 https://foundation.mozilla.org
+foundation.mozilla.org###multipage-nav
+
+! 2023-09-12 https://ryanholiday.net
+ryanholiday.net##.logo-bottom.logo-wrapper
+
+! 2023-09-13 https://www.theatlantic.com
+www.theatlantic.com##[class*="SecondaryNav_collapsed"]
+
+! 2023-09-16 https://thefederalist.com
+thefederalist.com##.header-alert
+thefederalist.com##.container-full
+
+! 2023-09-23 https://www.nplusonemag.com
+www.nplusonemag.com##.flavor-online-only
+www.nplusonemag.com##.module-newsletter.widget
+www.nplusonemag.com##.post-meta-tags
+www.nplusonemag.com###header-main
+www.nplusonemag.com##.post-category
+www.nplusonemag.com##footer
+www.nplusonemag.com###supplementary
+
+! 2023-09-26 https://thereader.mitpress.mit.edu
+thereader.mitpress.mit.edu##div.wp-block-image
+
+! 2023-09-26 https://newrepublic.com
+newrepublic.com##.HomePageNav_wordmark
+newrepublic.com##.HomePageNav_subcategories
+newrepublic.com##.HomePageNavFull_container
+newrepublic.com##.article-header-grid > .ArticleBadge
+newrepublic.com###ContainerPlacement1
+newrepublic.com###ContainerPlacement2
+newrepublic.com##div.footer-text-wrap
+newrepublic.com##.footer
+
+! 2023-09-27 https://thereader.mitpress.mit.edu
+thereader.mitpress.mit.edu##.ma-related-posts
+thereader.mitpress.mit.edu###footer
+thereader.mitpress.mit.edu##.social-cont
+
+! 2023-09-29 https://www.cfr.org
+www.cfr.org##.more-on
+www.cfr.org##[class*="promo__"]
+www.cfr.org##.explore-more-promotional__wrapper
+www.cfr.org##.main-footer
+www.cfr.org###block-topicnavigationblock
+
+! 2023-10-02 https://www.foreignaffairs.com
+www.foreignaffairs.com##.sign-up-container
+www.foreignaffairs.com##.sticky-sidebar-wrapper.offset-lg-0.flex-column.align-items-center.d-lg-flex.d-none.col-lg-4.col-12
+www.foreignaffairs.com##.print-hidden
+www.foreignaffairs.com##blockquote.ls-narrow.offset
+www.foreignaffairs.com##.fa-header-wrapper
+www.foreignaffairs.com##.navbar-content
+
+! 2023-10-02 https://jacobin.com
+jacobin.com###banner-popup
+jacobin.com##.prt-x.si-hr
+jacobin.com##.po-hr-fl__taxonomies--category
+jacobin.com##.prt-x.po-sr-ed--c.po-sr--c.po-sr-ed
+jacobin.com##.prt-x.po-sr--b.po-sr-sb
+jacobin.com###ch-2 > .pq--right.pq
+jacobin.com###ch-1 > .pq--left.pq
+jacobin.com##.pq--left
+jacobin.com##.pq--right
+jacobin.com##.prt-x.po-ca
+jacobin.com##.prt-x.si-fr
+jacobin.com##.pq--center
+
+! 2023-10-03 https://longreads.com
+longreads.com##.wp-block-group-is-layout-constrained.is-layout-constrained.has-background.has-light-gray-background-color.wp-block-group
+
+! 2023-10-03 https://9to5mac.com
+9to5mac.com##.sidebar
+
+! 2023-10-03 https://www.statista.com
+www.statista.com##.fadeInDown.animated.paywallWrapper.statisticAlertPremium.statisticAlert--conversionTeaser.statisticAlert
+
+! 2023-10-03 https://www.boston.com
+www.boston.com##.m-article-list--floated
+www.boston.com##.t-amp__generic-cta
+www.boston.com##.o-featured-content--has-title
+www.boston.com##.o-featured-content--c-related
+www.boston.com##.o-site-webgears_menu
+www.boston.com##.o-site-footer__meta
+
+! 2023-10-05 https://www.newstatesman.com
+www.newstatesman.com##.c-header
+www.newstatesman.com##.c-breadcrumbs
+www.newstatesman.com##.c-related-articles
+www.newstatesman.com##.newsletter-inner-container
+www.newstatesman.com##.c-sponsored-article
+www.newstatesman.com##.footer-widgets-container
+www.newstatesman.com##.c-footer
+www.newstatesman.com##.c-tags
+
+! 2023-10-05 https://www.pbs.org
+www.pbs.org##.shop-ad
+www.pbs.org##.connect-social
+www.pbs.org##.jump-link.site-footer
+
+! 2023-10-08 https://techhq.com
+techhq.com##.sticky_header.header
+
+! 2023-10-10 https://www.letustalkbooks.com
+www.letustalkbooks.com###nojs-banner
+www.letustalkbooks.com##[class*="SubscribePrompt-module__subscribeDialog"]
+
+! 2023-10-11 https://www.nationalreview.com
+www.nationalreview.com##.site-header--singular.site-header--slidedown.site-header--not-top.site-header--browser-open.site-header-wrap--single.site-header-wrap.site-header--sticky.site-header--headless.site-header
+www.nationalreview.com##.post-list--aside-more-on
+www.nationalreview.com##.aside-module--more-from-author
+www.nationalreview.com##.aside-module--top-stories--desktop
+www.nationalreview.com##.site-header--singular
+www.nationalreview.com##.header-billboard-wrap
+www.nationalreview.com##.premium-badge__plus
+www.nationalreview.com##.premium-badge__nr
+www.nationalreview.com##.issue-content--article.issue-content
+www.nationalreview.com##.site-footer
+www.nationalreview.com##.nrplus-cta--content
+www.nationalreview.com##.article-next-up
+www.nationalreview.com##.nrplus-cta-wrap
+
+! 2023-10-12 https://liliputing.com
+liliputing.com##.widget-area
+
+! 2023-10-12 https://lareviewofbooks.org
+lareviewofbooks.org##.border-opacity-25.dark\:border-gray-800.border-larb-gold.border-b-1.flex.bg-opacity-5.dark\:bg-gray-900.bg-larb-gold.pb-8.flex-col.w-full.z-20
+
+! 2023-10-13 https://www.bingehulu.com
+www.bingehulu.com###smart-head > .smart-head-row-full.s-dark.smart-head-row-3.smart-head-mid.smart-head-row > .wrap.inner
+www.bingehulu.com##.featured
+www.bingehulu.com##.has-sep
+www.bingehulu.com##.smart-head-main.smart-head-a.smart-head
+www.bingehulu.com##.breadcrumbs-a.is-full-width.breadcrumbs
+www.bingehulu.com##.meta-above.post-meta-items
+www.bingehulu.com##.navigate-posts
+www.bingehulu.com##.author-box
+www.bingehulu.com##.related-posts
+www.bingehulu.com##.s-post-large.the-post > .comments
+www.bingehulu.com##.bold-footer-lower.lower-footer
+
+! 2023-10-13 https://www.realclearscience.com
+www.realclearscience.com##.page-header
+www.realclearscience.com###masthead-wrapper
+www.realclearscience.com##.ri.article-short-hero
+www.realclearscience.com##.beta
+www.realclearscience.com###related-footer
+www.realclearscience.com##.comments-wrapper
+www.realclearscience.com###comments-container
+www.realclearscience.com##.footer
+www.realclearscience.com##.comments-count
+
+! 2023-10-16 https://www.bbc.co.uk
+www.bbc.co.uk##[class*="ChameleonGlobalNavigation"]
+www.bbc.co.uk##[class*="ProductNavigation"]
+www.bbc.co.uk##[class*="Promo"]
+www.bbc.co.uk##[class*="OnwardJourney"]
+
+! 2023-10-16 https://www.chicagotribune.com
+www.chicagotribune.com##.header-nav-wrapper
+www.chicagotribune.com##.reserve-newsticker-space-md-lg
+www.chicagotribune.com##.overline--link
+www.chicagotribune.com##[class*="sticky"]
+
+! 2023-10-16 https://www.cavalierdaily.com
+www.cavalierdaily.com##.border-secondary
+www.cavalierdaily.com##header
+www.cavalierdaily.com##.navbar
+www.cavalierdaily.com##.sidebar-tabs
+www.cavalierdaily.com##.fixed-sidebar
+www.cavalierdaily.com##.related
+www.cavalierdaily.com##.d-print-none
+
+! 2023-10-16 https://helpdeskgeek.com
+helpdeskgeek.com##.sidebar
+helpdeskgeek.com##.header
+helpdeskgeek.com##.category
+helpdeskgeek.com##.site-footer
+helpdeskgeek.com##.related-posts
+helpdeskgeek.com##.dummyLazy.subscription-box
+
+! 2023-10-16 https://www.thedailybeast.com
+www.thedailybeast.com##.Navigation
+www.thedailybeast.com##.Sidebar
+www.thedailybeast.com##.Rubric
+www.thedailybeast.com##.OrientationBadge
+www.thedailybeast.com##.Footer--adhesion.Footer
+www.thedailybeast.com##.StoryFooter__tips
+
+! 2023-10-18 https://simplelifesaver.com
+simplelifesaver.com##.navbar-wrap
+simplelifesaver.com##.single-sidebar.sidebar-wrap
+
+! 2023-10-19 https://www.cnn.com
+www.cnn.com##.related-content_without-image__link
+www.cnn.com##div.related-content_without-image--article
+www.cnn.com##.cnn-app-display-none.header
+www.cnn.com##.layout-with-rail__bottom.layout__bottom
+
+! 2023-10-22 https://reason.com
+reason.com##.single-post-signup-box
+
+! 2023-10-26 https://time.com
+time.com##.leading-relaxed
+
+! 2023-10-27 https://foreignpolicy.com
+foreignpolicy.com##.site-header
+foreignpolicy.com##.feature-header-text > .department-name
+
+! 2023-10-30 https://www.maketecheasier.com
+www.maketecheasier.com##.sidebar
+www.maketecheasier.com###breadcrumbs
+www.maketecheasier.com##.header-content
+www.maketecheasier.com##.site-header.w-full
+www.maketecheasier.com##.site-footer
+www.maketecheasier.com##.newsub-box
+
+! 2023-10-31 https://www.linkedin.com
+www.linkedin.com##.launchpad-v2
+www.linkedin.com##.scaffold-layout__aside
+www.linkedin.com##.relative:has-text(/promoted/i)
+www.linkedin.com##.relative:has-text(/excited to/i)
+www.linkedin.com##.relative:has-text(/great time/i)
+www.linkedin.com##.relative:has-text(/counting down/i)
+www.linkedin.com##.relative:has-text(/exciting/i)
+www.linkedin.com##.relative:has-text(/very proud/i)
+www.linkedin.com##.relative:has-text(/hats off/i)
+www.linkedin.com##.relative:has-text(/work anniversary/i)
+www.linkedin.com##.relative:has-text(/expert answers/i)
+www.linkedin.com##.relative:has-text(/semitism/i)
+www.linkedin.com##.relative:has-text(/an honor/i)
+www.linkedin.com##.relative:has-text(/to share/i)
+www.linkedin.com##.relative:has-text(/#/i)
+www.linkedin.com##.relative:has-text(/thrill/i)
+www.linkedin.com##.relative:has-text(/humbling/i)
+www.linkedin.com##.relative:has-text(/big day/i)
+www.linkedin.com##.relative:has-text(/first look/i)
+www.linkedin.com##.relative:has-text(/great team/i)
+
+www.linkedin.com##.relative:has-text(/humbled/i)
+www.linkedin.com##.relative:has-text(/fantastic/i)
+www.linkedin.com##.relative:has-text(/appoint/i)
+www.linkedin.com##.relative:has-text(/linkedin learning/i)
+www.linkedin.com##[class*="article"]
+www.linkedin.com##.feed-shared-social-action-bar
+www.linkedin.com##[class*="social-counts"]
+www.linkedin.com##.update-components-actor__description
+www.linkedin.com##.update-components-mini-update-v2__reshared-content--with-divider.update-components-mini-update-v2__reshared-content
+www.linkedin.com##.video-s-loader--video-active.video-s-loader
+www.linkedin.com###ember2226 > div > .feed-shared-update-v2__content.update-components-image--single-image.update-components-image > .relative > .update-components-image__container > .update-components-image__image-link > .ivm-image-view-model
+www.linkedin.com##.feed-shared-update-v2__content.update-components-image--span-first-two.update-components-image--split-last-three
+www.linkedin.com##.feed-shared-update-v2__content.update-components-image--single-image.update-components-image > .relative > .update-components-image__container > .update-components-image__image-link > .ivm-image-view-model > .display-flex.ivm-view-attr__img-wrapper
+www.linkedin.com##.feed-shared-update-v2__content.update-components-image--single-image.update-components-image > .relative > .update-components-image__container > .update-components-image__image-link > .ivm-image-view-model
+www.linkedin.com##.feed-shared-update-v2__content.update-components-image--single-image.update-components-image > .relative
+www.linkedin.com##.feed-shared-update-v2__content
+
+! 2023-10-31 https://andadinosaur.com
+andadinosaur.com##footer
+
+! 2023-11-02 https://www.linkedin.com
+||media.licdn.com/dms/image/sync/D5627AQGa76GawENR3w/articleshare-shrink_800/0/1698925372731?e=1699556400&v=beta&t=zC-d_TnRpx8epYoE3-cmRdUa_loFDjfwvmYwK7MWMP0$image
+
+! 2023-11-02 https://www.prnewswire.com
+www.prnewswire.com###js-footer
+www.prnewswire.com##.container.newsletters-wrapper
+
+! 2023-11-03 https://variety.com
+variety.com##.lrv-a-space-children--1
+variety.com##.a-stack-1
+variety.com##.header
+variety.com##.main-menu
+variety.com##.newswire__wrapper
+variety.com##.footer
+
+! 2023-11-04 https://www.premiumoutlets.com
+www.premiumoutlets.com##[id*="Html-banner-stores"]
+www.premiumoutlets.com###emailSignupPrompt
+www.premiumoutlets.com##.open.modal-backdrop
+
+! 2023-11-04 https://www.poetry.com
+www.poetry.com##.col-sm-pull-8.col-sm-4
+www.poetry.com##.text-right.rank-bar
+www.poetry.com###header
+www.poetry.com##.translate
+www.poetry.com##.biblio
+www.poetry.com###footer
+
+! 2023-11-11 https://oll.libertyfund.org
+oll.libertyfund.org##.OLL-footer
+
+! 2023-11-11 https://www.makeuseof.com
+www.makeuseof.com##.subnav-menu.header-nav
+
+! 2023-11-13 https://www.theatlantic.com
+www.theatlantic.com##[class*="Paywall_gated"]
+
+! 2023-11-16 https://www.theatlantic.com
+www.theatlantic.com##[class*="GiftPromo"]
+
+! 2023-11-16 https://www.theguardian.com
+www.theguardian.com##nav
+www.theguardian.com##section
+www.theguardian.com##footer
+
+! 2023-11-17 https://www.nbcboston.com
+www.nbcboston.com##.article-sidebar.sidebar
+www.nbcboston.com##.article-eyebrow__container
+www.nbcboston.com##.recirc-module
+www.nbcboston.com##.article-footer
+www.nbcboston.com##.site-header
+www.nbcboston.com##.hero-background
+www.nbcboston.com##.template-hero
+
+! 2023-11-18 https://www.homedepot.com
+www.homedepot.com##[class*="sponsored"]
+
+! 2023-11-18 https://www.williams-sonoma.com
+www.williams-sonoma.com##.promo
+www.williams-sonoma.com###cross-brand-bar
+www.williams-sonoma.com##.product-pip > .ecm-content-slot
+www.williams-sonoma.com##.persistent-product-container
+www.williams-sonoma.com##.recs-carousel-container
+www.williams-sonoma.com###br-widgets
+www.williams-sonoma.com##footer
+www.williams-sonoma.com##.tabsWidget
+
+! 2023-11-18 https://www.bedbathandbeyond.com
+www.bedbathandbeyond.com##[class*="UnderBanner"]
+www.bedbathandbeyond.com###page_triggers
+www.bedbathandbeyond.com##[class*="Banner"]
+www.bedbathandbeyond.com###ft
+www.bedbathandbeyond.com##[class*="product-tile-link"]
+www.bedbathandbeyond.com###top-similar-products
+www.bedbathandbeyond.com##.cl-recs-carousel-section
+
+! 2023-11-21 https://animals.howstuffworks.com
+animals.howstuffworks.com##.print\:hidden
+animals.howstuffworks.com###page > nav
+animals.howstuffworks.com##.border.clear-both.mb-6.mt-6.p-6.faq
+animals.howstuffworks.com##.justify-center.items-center.text-royal-blue
+
+! 2023-11-25 https://nypost.com
+nypost.com##.single__sidebar
+nypost.com##.recirc
+nypost.com##.site-header
+nypost.com##.article-header__top
+nypost.com##.alignleft.single__inline-module
+nypost.com##.more-stories
+nypost.com##.site-footer
+nypost.com##.article-footer
+
+! 2023-11-25 https://www.berkshireeagle.com
+www.berkshireeagle.com###site-footer-container
+
+! 2023-11-25 https://www.oregonlive.com
+www.oregonlive.com###fusion-app > .toprail
+www.oregonlive.com##.articleLabel
+www.oregonlive.com###footer > .footer
+
+! 2023-11-27 https://hbr.org
+hbr.org##.advertising
+
+! 2023-11-30 https://brookline.news
+brookline.news##.blog-sidebar.nv-right.col-sm-12.nv-sidebar-wrap
+brookline.news##.bdn_social_share2
+brookline.news###mid-article-subscribe
+brookline.news##.hfg_footer
+brookline.news##.simplemodal-container
+brookline.news##.simplemodal-overlay
+
+! 2023-12-01 https://www.makeuseof.com
+www.makeuseof.com##.main-navigation.wrapper
+www.makeuseof.com##.w-newsletter-in_article
+www.makeuseof.com##.expandable.img-size-heading-image-full-width
+www.makeuseof.com##.article-footer
+
+! 2023-12-05 https://www.theatlantic.com
+www.theatlantic.com###mid-promo-wrapper
+
+! 2023-12-05 https://www.brycewray.com
+www.brycewray.com##.bg-dark
+www.brycewray.com##.footerWrapper
+www.brycewray.com##span > .legal.ctr
+
+! 2023-12-05 https://www.bbc.com
+||www.bbc.com/bbcx/grey-placeholder.png$image
+||www.bbc.com/bbcx/grey-placeholder.png$image
+
+! 2023-12-06 https://therecord.media
+therecord.media##.article__figure
+therecord.media##.header
+
+! 2023-12-06 https://duckduckgo.com
+duckduckgo.com##.is-showing.js-welcome-wrap.welcome-wrap
+
+! 2023-12-06 https://www.npr.org
+www.npr.org##.navigation
+www.npr.org###res1111344396 > .img.bucket
+www.npr.org##.img.bucket
+www.npr.org##.npr-footer
+
+! 2023-12-06 https://www.macrumors.com
+www.macrumors.com##[class*="brand"]
+www.macrumors.com##[class*="noskim"]
+www.macrumors.com##[class*="footerInner"]
+www.macrumors.com##[class*="contentRow"]
+www.macrumors.com##.linkback
+www.macrumors.com##[class*="subscribe"]
+www.macrumors.com###comments
+
+! 2023-12-06 https://itsfoss.com
+itsfoss.com##.sidebar
+itsfoss.com##.header__inner.is-rel.flex.wrapper.container
+itsfoss.com##.js-header.header
+
+! 2023-12-07 https://publicdomainreview.org
+publicdomainreview.org##.fundraiser-banner
+publicdomainreview.org##.site-header
+publicdomainreview.org##.collection-header > .headline
+
+! 2023-12-08 https://www.thecollector.com
+www.thecollector.com###article-sidebar-block-1
+www.thecollector.com##.article-sidebar.col
+www.thecollector.com##.breadcrumbs
+www.thecollector.com##.autohide.nav-down
+
+! 2023-12-13 https://www.theatlantic.com
+www.theatlantic.com##[class*="LostInventoryMessage"]
+www.theatlantic.com##[class*="HorizontalRiver"]
+www.theatlantic.com##[class*="SubscribeLeaflet"]
+
+! 2023-12-13 https://www.techdirt.com
+www.techdirt.com###rightcolumn
+www.techdirt.com###header
+www.techdirt.com##.maincol-top
+www.techdirt.com###top
+www.techdirt.com###maincolumn > .maincolumn_head
+www.techdirt.com##div.techdirt.storynav
+www.techdirt.com###bottom
+
+! 2023-12-13 https://fortune.com
+fortune.com##.own
+fortune.com##.most-popular-rr
+fortune.com##.heroEyebrow
+fortune.com##.commercial
+fortune.com##.about
+fortune.com##.customer
+fortune.com##.sections
+fortune.com##.rankings
+fortune.com##.article
+
+! 2023-12-13 https://linuxblog.io
+linuxblog.io##.col-right
+
+! 2023-12-13 https://www.fastcompany.com
+www.fastcompany.com##.masthead
+www.fastcompany.com##.recirc__container
+www.fastcompany.com##.footer
+
+! 2023-12-13 https://www.reuters.com
+www.reuters.com##[class*="promo"]
+www.reuters.com##[class*="tags"]
+www.reuters.com##[class*="license-content-button"]
+www.reuters.com##[class*="read-next-"]
+www.reuters.com##[class*="__related__"]
+www.reuters.com##[class*="toolbar"]
+
+! 2023-12-13 https://www.theverge.com
+www.theverge.com##.tracking-12
+www.theverge.com##.duet--layout--rail
+www.theverge.com##.duet--navigation--navigation
+www.theverge.com##.duet--article--more-stories
+www.theverge.com##.duet--navigation--footer
+
+! 2023-12-13 https://www.nytimes.com
+www.nytimes.com##[class*="Masthead"]
+www.nytimes.com###bottom-wrapper
+www.nytimes.com##.actionbar-button
+
+! 2023-12-15 https://www.boston25news.com
+www.boston25news.com##[class*="StyledNav"]
+www.boston25news.com##.page-header-redesign
+www.boston25news.com##.right-rail-custom
+
+! 2023-12-21 https://privacy.thenexus.today
+privacy.thenexus.today##.outer.gh-head
+privacy.thenexus.today##.article-image
+privacy.thenexus.today##.outer.read-more-wrap
+privacy.thenexus.today##.outer.site-footer
+
+! 2023-12-21 https://www.networkworld.com
+www.networkworld.com##.header--bg-nww-brown.header
+www.networkworld.com##.breadcrumbs
+www.networkworld.com##div.card__info:nth-of-type(1)
+www.networkworld.com##.card__tags
+www.networkworld.com##.social-share-sticky-menu
+www.networkworld.com##.article__side
+www.networkworld.com##.wp-post-image
+www.networkworld.com##.media-with-label
+www.networkworld.com##.suggested-content-various
+www.networkworld.com##.author-bio__popular-authors
+www.networkworld.com##.footer
+
+! 2023-12-21 https://spectrum.ieee.org
+spectrum.ieee.org###sTop_Bar_0_0_28_0_0_14
+spectrum.ieee.org##.sm-mb-1.col.rm-col-center > div.sm-mt-1.clearfix.widget__body > .all-related-sections
+spectrum.ieee.org##.widget__head
+spectrum.ieee.org##.around-the-web
+spectrum.ieee.org##.tags
+spectrum.ieee.org##.article__comments
+
+! 2023-12-22 https://fsfe.org
+fsfe.org##figure
+fsfe.org###top
+fsfe.org##.topbanner
+fsfe.org###notifications
+fsfe.org###translations
+fsfe.org###category
+fsfe.org###sidebar
+fsfe.org##.subscribe-nl
+fsfe.org##body > footer
+fsfe.org###direct-to-top > [href]
+fsfe.org###tags
+fsfe.org###discussion-link
+
+! 2023-12-22 https://www.eff.org
+www.eff.org##.banner
+www.eff.org###masthead-wrapper
+www.eff.org##.primary-nav-nojs
+www.eff.org##.side-content.column
+
+! 2023-12-22 https://pitchbook.com
+pitchbook.com##.header-banner-cta
+pitchbook.com##.simplify-menu__container
+pitchbook.com##div.bg-navy-blue
+pitchbook.com##.bg-jagged-ice
+pitchbook.com##.comments
+pitchbook.com##.article__info-wrapper
+
+! 2023-12-31 https://www.billboard.com
+www.billboard.com##.js-Header-contents
+www.billboard.com##.lrv-u-margin-lr-auto.js-Header
+
+! 2023-12-31 https://www.edweek.org
+www.edweek.org##.o-header
+www.edweek.org##.m-subnav-container
+www.edweek.org##.m-header-banner.HeaderBannerMain
+www.edweek.org##.m-article-title__topic-wrapper
+www.edweek.org##.Page-CollectionAside
+www.edweek.org##.Module--ContextAside.Page-aside
+www.edweek.org##.m-actionbar-wrapper
+www.edweek.org##.m-authorbio
+
+! 2023-12-31 https://slate.com
+slate.com##.recirc-line
+slate.com##.lazyload-container
+
+! 2023-12-31 https://medium.com
+medium.com##.c.o.n.m.l
+medium.com##.ke
+
+! 2024-01-01 https://a2zfilminglocation.com
+a2zfilminglocation.com##.hide-header-search.site-header
+a2zfilminglocation.com###main > .widget-area
+a2zfilminglocation.com##.site-footer
+a2zfilminglocation.com##.comments-area
+
+! 2024-01-01 https://www.forbes.com
+www.forbes.com##progressive-image
+www.forbes.com##.image-embed__placeholder
+www.forbes.com##.masthead-article.breadCrumb-container
+www.forbes.com##.masthead-badge.top-label-wrapper
+www.forbes.com##.anchors-container
+
+! 2024-01-01 https://www.bleepingcomputer.com
+www.bleepingcomputer.com##.site-nav
+www.bleepingcomputer.com##header
+www.bleepingcomputer.com##.cz-breadcrumb-outer-wrapp
+www.bleepingcomputer.com##.bc_right_sidebar.col-md-4
+www.bleepingcomputer.com##.cz-news-comment
+www.bleepingcomputer.com##.cz-newz-comment-wrapp
+www.bleepingcomputer.com##.cz-post-comment-wrapp
+www.bleepingcomputer.com###footer
+www.bleepingcomputer.com##.cz-story-navigation
+www.bleepingcomputer.com##.cz-news-tags-wrap
+www.bleepingcomputer.com##.articleBody > .cz-related-article-wrapp
+
+! 2024-01-01 https://www.righto.com
+www.righto.com##.PopularPosts.widget
+www.righto.com##.column-right-outer
+www.righto.com##.comments
+www.righto.com##.blog-pager
+
+! 2024-01-02 https://www.caktusgroup.com
+www.caktusgroup.com##.blog-image-wrapper
+
+! 2024-01-04 https://www.insidehighered.com
+www.insidehighered.com##.aside-secondary
+www.insidehighered.com###header-main
+www.insidehighered.com##.aside-primary
+www.insidehighered.com##.adslot-top-container
+www.insidehighered.com##.page-nav
+www.insidehighered.com##.mb-6.card
+www.insidehighered.com##.article--next-story
+www.insidehighered.com##.after-content
+www.insidehighered.com##.subscribe-box
+www.insidehighered.com###page-wrapper > .text-white.bg-black
+
+! 2024-01-04 https://hbr.org
+hbr.org##.footer-container
+hbr.org##.right-rail--container
+hbr.org##.left-rail--container
+
+! 2024-01-06 https://www.ebay.com
+www.ebay.com##.off-card
+www.ebay.com##.vl-atf-module-js
+www.ebay.com##.gffoot
+www.ebay.com##.vl-feedback__survey
+www.ebay.com##.vl-feedback
+
+! 2024-01-06 https://www.goodreads.com
+www.goodreads.com##.Footer
+www.goodreads.com##.HelpCard
+
+! 2024-01-06 https://www.buzzfeednews.com
+www.buzzfeednews.com###js-header-container
+www.buzzfeednews.com##.embed-breadcrumbs
+www.buzzfeednews.com##picture
+
+! 2024-01-06 https://www.thesun.co.uk
+www.thesun.co.uk##.article-sidebar.sun-col-2.col
+www.thesun.co.uk##.header-wrapper
+www.thesun.co.uk##footer
+www.thesun.co.uk##.tags
+www.thesun.co.uk##.rail_anchor_text
+
+! 2024-01-09 https://www.washingtonpost.com
+www.washingtonpost.com##[class*="isFixed-true"]
+www.washingtonpost.com##[class*="size-lg"]
+www.washingtonpost.com##.justify-center.flex-column.flex.w-100
+www.washingtonpost.com##.font-xxxxs
+www.washingtonpost.com##.hide-for-print
+
+! 2024-01-09 https://www.tomsguide.com
+www.tomsguide.com##.primary-nav
+www.tomsguide.com##.slice-container-trending.trendingbar.trending-bar-container.slice-container
+www.tomsguide.com##.slice-container-affiliateDisclaimer
+www.tomsguide.com##.breadcrumb
+www.tomsguide.com##.--latest
+www.tomsguide.com##.more-about__container
+www.tomsguide.com##.xenforo-comments-1
+www.tomsguide.com###document-footer
+www.tomsguide.com##.xenforo-comments-see-all
+
+! 2024-01-14 https://www.consumerreports.org
+www.consumerreports.org##.related-links-multiple
+
+! 2024-01-14 https://www.crutchfield.com
+www.crutchfield.com##.header-outer-wrapper
+www.crutchfield.com##.right-menu-rail
+
+! 2024-02-01 https://www.prri.org
+www.prri.org##.page__sidebar
+
+! 2024-02-01 https://www.cnn.com
+www.cnn.com##.header__wrapper-outer
+www.cnn.com##.video-playlist
+
+! 2024-02-05 https://www.rollingstone.com
+www.rollingstone.com##.sticky-sidebar-container
+www.rollingstone.com##.header-outer
+www.rollingstone.com##.brands-most-popular
+www.rollingstone.com##.article-tags
+www.rollingstone.com##.o-nav
+www.rollingstone.com##.story-grid
+www.rollingstone.com##.newswire
+www.rollingstone.com##.footer
+www.rollingstone.com##.pmc-footer
+
+! 2024-02-07 https://www.newtonbeacon.org
+www.newtonbeacon.org##.main-header
+www.newtonbeacon.org##.layout--two.layout--default.site-header
+www.newtonbeacon.org###theme-content > .tn-container
+www.newtonbeacon.org##.secondary-sidebar
+www.newtonbeacon.org##.post-categories
+www.newtonbeacon.org##.dark_bk.site-footer
+www.newtonbeacon.org##.post-navigation.navigation
+
+! 2024-02-08 https://www.thejournal.ie
+www.thejournal.ie##.article-sidebar-redesign
+www.thejournal.ie###main-navigation
+
+! 2024-02-08 https://www.watertownmanews.com
+www.watertownmanews.com###site-footer
+www.watertownmanews.com##.nocontent.article-bottom
+www.watertownmanews.com###page > .clearfix.navbar
+www.watertownmanews.com##.nocontent.span4
+www.watertownmanews.com###top-nav
+www.watertownmanews.com##.global-nav-bg
+
+! 2024-02-08 https://www.adl.org
+www.adl.org##.l-page__footer
+
+! 2024-02-08 https://fortune.com
+fortune.com##.latest-popular-module
+
+! 2024-02-14 https://www.brookings.edu
+www.brookings.edu##.article-content-width.article
+
+! 2024-02-14 https://www.sfexaminer.com
+www.sfexaminer.com##.hidden-print
+www.sfexaminer.com##.has-flags.tow-wrapper
+
+! 2024-02-14 https://www.koaa.com
+www.koaa.com##.Header-wrap
+www.koaa.com##.ArticlePage-breadcrumbs
+www.koaa.com##.ActionBar
+www.koaa.com##.Footer-wrap
+www.koaa.com##span > .Image
+www.koaa.com##.ImageLoading
+
+! 2024-02-20 https://hbswk.hbs.edu
+hbswk.hbs.edu##.storySideSpan
+hbswk.hbs.edu##.noindex.universal-banner
+hbswk.hbs.edu##.crawl-hidden.noindex.site-header.inherit-bg
+hbswk.hbs.edu##.inherit-bg.page-header
+hbswk.hbs.edu##[href^="/Pages/browse.aspx"] > .uc.mu
+hbswk.hbs.edu###left-social-sticky
+hbswk.hbs.edu##.center.cta-block
+hbswk.hbs.edu##footer
+hbswk.hbs.edu###commentsAnchor
+
+! Jun 3, 2024 https://old.reddit.com
+old.reddit.com##.loggedin.may-blank.self.invisible-when-pinned.thumbnail
+old.reddit.com##.outbound.loggedin.may-blank.invisible-when-pinned.thumbnail
+old.reddit.com##.sidecontentbox
+old.reddit.com##.create.sidebox
+old.reddit.com##.outbound.may-blank.invisible-when-pinned.thumbnail
+old.reddit.com##.invisible-when-pinned
+old.reddit.com##.linkflairlabel
+
+! Jun 4, 2024 https://old.reddit.com
+old.reddit.com##.side
+||b.thumbs.redditmedia.com$image
+
+! Jun 21, 2024 https://www.cbsnews.com
+www.cbsnews.com##.nocontent
+www.cbsnews.com##.component--type-recirculation
+www.cbsnews.com##.site-footer
+www.cbsnews.com##.content__tags
+www.cbsnews.com##.content__copyright
+www.cbsnews.com##.is-hero.embed--size-medium.embed--float-none.is-video.embed--type-content_cbsn_live.embed--type-video.embed
+www.cbsnews.com##.item--asset-wrapper
+www.cbsnews.com##.content__show-logo
+
+! Jun 21, 2024 https://www.patriotledger.com
+www.patriotledger.com##.gnt_n
+www.patriotledger.com##.gnt_ar_lbw
+www.patriotledger.com##.teal-video-wrap
+www.patriotledger.com##.gnt_em_vp_w
+
+! Jul 12, 2024 https://old.reddit.com
+old.reddit.com##.googleid-signin
+
+! Jul 12, 2024 https://www.theatlantic.com
+www.theatlantic.com##[class*="Offlede_figure"]
+www.theatlantic.com##[class*="Lede_figure"]
+www.theatlantic.com##[class*="SmallPromoItem_image"]
+www.theatlantic.com##[class*="QuadBelt_figure"]
+www.theatlantic.com##[class*="DoubleWide_figure"]
+www.theatlantic.com##[class*="DoubleStack_figure"]
+www.theatlantic.com##picture
+www.theatlantic.com##[class*="HomepageNav_middleContainer"]
+www.theatlantic.com##[class*="HomepageNav_root"]
+
+! Jul 13, 2024 https://www.tmz.com
+www.tmz.com##.jumbotron-top.jumbotron
+www.tmz.com##.header-wrapper
+www.tmz.com##.sidebar
+www.tmz.com##.footer
+www.tmz.com##.related-articles
+www.tmz.com##.tag-cloud
+
+! Jul 19, 2024 https://www.cnn.com
+www.cnn.com##.layout-with-rail__rail.layout__rail
+
+! Jul 22, 2024 https://www.politico.com
+www.politico.com##.page-header
+www.politico.com##.articleNav
+www.politico.com##.media-item__summary
+www.politico.com##.media-item--story-lead
+www.politico.com##.story-meta__credit
+
+! Jul 23, 2024 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.header-main__slider
+www.geeksforgeeks.org##nav
+www.geeksforgeeks.org##.footer-wrapper
+www.geeksforgeeks.org##.a-wrapper > .bottom-wrap
+www.geeksforgeeks.org##.show-more-Articles-button
+
+! Jul 23, 2024 https://www.popsci.com
+www.popsci.com##.relative.site-header
+www.popsci.com##.mb-3.article-breadcrumbs-wrapper
+www.popsci.com##.py-5.article-sidebar
+www.popsci.com##.mb-10.xl\:grid-cols-10.xl\:grid.flex-col.flex.footer-columns-wrapper
+www.popsci.com##.xl\:py-24.py-8.bg-black.footer
+
+! Jul 23, 2024 https://www.si.com
+www.si.com###page-footer
+www.si.com##.is-sidebar
+www.si.com##.mm-header-components--box-shadow
+
+! Jul 23, 2024 https://www.theatlantic.com
+www.theatlantic.com##[class*="BreakingNewsBarDisplay"]
+
+! Jul 24, 2024 https://pitchfork.com
+pitchfork.com##[class*="recirc"]
+pitchfork.com##[class*="Footer"]
+
+! Jul 25, 2024 https://www.businessinsider.com
+www.businessinsider.com##.masthead-type-post.masthead-bi.masthead.layout-masthead
+www.businessinsider.com##.live-updates-container
+www.businessinsider.com##.post-meta
+www.businessinsider.com##.content-recommendations-container
+www.businessinsider.com##[class*="recirc"]
+www.businessinsider.com##.l-footer
+
+! Aug 5, 2024 https://www.colorado.edu
+www.colorado.edu##.background-black.site-info-wrapper.section
+
+! Aug 17, 2024 https://bookclubs.com
+bookclubs.com##.have-close-button.sm\:top-\[70px\].z-\[999\].right-0.left-0.sm\:sticky.static.small-content.linen-mode.relative.blog-subscribe
+bookclubs.com##.navbar
+bookclubs.com##.blog-category
+bookclubs.com##.justify-center.items-center.flex.blog-image-wrap
+bookclubs.com##.cookies-solution
+bookclubs.com##.have-close-button
+
+! Sep 4, 2024 https://www.theverge.com
+www.theverge.com##.w-full.duet--article--lede-image
+
+! Sep 7, 2024 https://www.theparisreview.org
+www.theparisreview.org##article.rail-article
+www.theparisreview.org##.rail_right
+www.theparisreview.org###int-header
+www.theparisreview.org##.article-tools_desktop
+www.theparisreview.org###int-footer
+
+! Sep 11, 2024 https://www.mixonline.com
+www.mixonline.com###inner-header
+www.mixonline.com###breadcrumbs
+www.mixonline.com##.wrap.site-ad
+
+! Sep 11, 2024 https://www.technologyreview.com
+www.technologyreview.com##[class*="popular"]
+www.technologyreview.com##[class*="footer"]
+www.technologyreview.com##[class*="eyebrow"]
+www.technologyreview.com##[class*="image"]
+www.technologyreview.com##.related__wrap
+www.technologyreview.com##[class*="postsWrapper"]
+www.technologyreview.com##[class*="deepDive__sectionTitleWrapper"]
+
+! Sep 11, 2024 https://english.elpais.com
+english.elpais.com###ctn_head
+
+! Sep 11, 2024 https://www.technologyreview.com
+www.technologyreview.com##[class*="headerTemplate__container--ecd80005f4f4080205fa3a10b73ba2fd"]
+
+! Sep 11, 2024 https://phys.org
+phys.org##.d-print-none
+phys.org##.breadcrumb
+
+! Sep 11, 2024 https://old.reddit.com
+old.reddit.com##.expando-button
+old.reddit.com## .post-sharing-button
+old.reddit.com##.link-save-button
+old.reddit.com## .access-required.reportbtn
+old.reddit.com##.post-crosspost-button
+
+! Sep 11, 2024 https://www.lrb.co.uk
+www.lrb.co.uk##.lrb-pw-block
+www.lrb.co.uk##.app-cta-block
+www.lrb.co.uk##.footer
+www.lrb.co.uk##.lrbhead--pinned.lrbhead--top.lrbhead--not-bottom.lrbhead.header-container > .header
+www.lrb.co.uk##.lrbhead--bottom.lrbhead--unpinned.lrbhead--not-top.lrbhead.header-container
+www.lrb.co.uk##[class*="truncated"]
+
+! Sep 12, 2024 https://www.bankrate.com
+www.bankrate.com##.dynamic-presentation > .gutter
+www.bankrate.com##.MortgagePre--how-it-works
+www.bankrate.com###hero
+www.bankrate.com##.SiteNav
+
+! Sep 13, 2024 https://coda.io
+coda.io##.SOYWPPfN
+coda.io##.RKeucbhq
+
+! Sep 15, 2024 https://www.howtogeek.com
+www.howtogeek.com##.expandable.img-size-heading-image-full-width.responsive-img.heading_image
+
+! Sep 17, 2024 https://www.independent.ie
+www.independent.ie##.secondary-col
+
+! Sep 19, 2024 https://anandsanwal.me
+anandsanwal.me##.wp-block-latest-posts__post-title
+
+! Sep 19, 2024 https://newatlas.com
+newatlas.com##.Page-header
+newatlas.com##.ArticlePage-breadcrumbs
+newatlas.com##.ArticlePage-contentFooter
+newatlas.com##.Page-footer
+newatlas.com##.ArticlePage-comments
+newatlas.com##.ArticlePage-tags
+
+! Sep 19, 2024 https://linuxstans.com
+linuxstans.com##.widget-area
+
+! Sep 22, 2024 https://abc7.com
+abc7.com##[class*="sidebar"]
+abc7.com##.footer
+
+! Sep 22, 2024 https://www.cbc.ca
+www.cbc.ca##.globalHeader
+
+! Sep 24, 2024 https://www.sciencealert.com
+www.sciencealert.com##[class*="sidebar"]
+
+! Sep 27, 2024 https://www.psychologytoday.com
+www.psychologytoday.com##.layout-content-right-rail
+www.psychologytoday.com##.header
+www.psychologytoday.com##.blog-entry__topic--full
+www.psychologytoday.com##.d-xl-block.d-none > .pathways_card
+www.psychologytoday.com##.footer
+www.psychologytoday.com##[id*="blogentrymorefromauthor"]
+www.psychologytoday.com##[id*="blogentrymorefrompt"]
+www.psychologytoday.com##.about-author-online
+www.psychologytoday.com##.block--content-main-additional.block
+||cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/$image
+||cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images$image
+
+! Sep 27, 2024 https://www.imdb.com
+www.imdb.com##a.media-link--rounded
+www.imdb.com##.ipc-split-button__btn
+www.imdb.com##.ipc-chip-list__scroller
+www.imdb.com##[class*="ipc-sub-grid-item"]
+www.imdb.com##[class*="episode-guide"]
+
+! Oct 3, 2024 https://www.lgbtqnation.com
+www.lgbtqnation.com##.listicle-sidebar
+www.lgbtqnation.com##.skin\:bg-white.site-header
+www.lgbtqnation.com##.kicker-usa.kicker
+www.lgbtqnation.com##.single-entry-thumb
+www.lgbtqnation.com##.wp-block-related-links
+www.lgbtqnation.com##.single-more-articles.row
+www.lgbtqnation.com##.site-footer
+www.lgbtqnation.com##.posts-navigation__next > .posts-navigation__label
+www.lgbtqnation.com##.clearfix.single-entry-section.posts-navigation
+www.lgbtqnation.com##.clearfix.entry-footer.row
+www.lgbtqnation.com##.rocket-lazyload.good-news.archive-background.archive-logo
+www.lgbtqnation.com##.single-term-footer
+
+! Oct 3, 2024 https://www.unite.ai
+www.unite.ai##.relative.left.mvp-post-cat
+www.unite.ai##.theiaStickySidebar.relative.left
+www.unite.ai###mvp-main-head-wrap
+www.unite.ai##.related
+www.unite.ai##.relative.footer__main
+www.unite.ai##.mvp-cont-read-wrap
+www.unite.ai##.mvp-post-tags
+www.unite.ai##.desktop-banner
+
+! Oct 5, 2024 https://www.wired.com
+www.wired.com##[class*="Sidebar"]
+
+! Oct 5, 2024 https://www.udiscovermusic.com
+www.udiscovermusic.com###mvp-main-head-wrap
+www.udiscovermusic.com##[id*="sidebar"]
+www.udiscovermusic.com###mvp-post-content-bottom
+www.udiscovermusic.com##.desktop-footer
+www.udiscovermusic.com##.mvp-post-tags
+www.udiscovermusic.com##.classical-iframe-desktop
+www.udiscovermusic.com##.mvp-com-click.relative.left
+www.udiscovermusic.com##.google-ad-center-footer
+
+! Oct 5, 2024 https://www.classicfm.com
+www.classicfm.com##.seemore
+www.classicfm.com##.promo
+www.classicfm.com###nav_wrapper
+www.classicfm.com###main-content
+
+! Oct 5, 2024 https://ctmirror.org
+ctmirror.org##.desktop-only
+ctmirror.org##.hide-header-search
+ctmirror.org##.cat-links
+ctmirror.org###main > .post-thumbnail
+ctmirror.org##figure.wp-block-pullquote
+
+! Oct 7, 2024 https://devlinfarmlife.com
+devlinfarmlife.com##.hide-in-mobile.with-animation.alignment-left.design-rounded
+
+! Oct 11, 2024 https://www.theatlantic.com
+www.theatlantic.com##.c-offlede__image
+www.theatlantic.com##.c-card__image
+www.theatlantic.com##.c-alert--blue.is-hidden.c-alert
+www.theatlantic.com##.c-cover-story__image
+www.theatlantic.com##.c-card__dek.o-dek
+www.theatlantic.com##.c-feature__image
+www.theatlantic.com##.c-feature__heading
+www.theatlantic.com##.c-hp--mid.c-hp
+www.theatlantic.com##.c-sections__container
